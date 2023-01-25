@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">डुप्लीकेट फाइल रिमूवर</string>
+    <string name="rating">भाव</string>
+    <string name="share">दोस्तों को शेयर करें</string>
+    <string name="policy">गोपनीयता नीति</string>
+
+    <string name="more_app">और ज्यादा एप्लीकेशन</string>
+    <string name="feedback">प्रतिपुष्टि</string>
+    <string name="scan">स्कैन</string>
+
+    <string name="setting">समायोजन</string>
+    <string name="scan_wait">फ़ाइलें स्कैन करते समय कृपया प्रतीक्षा करें...</string>
+    <string name="deleted_number_format">हटाई गई ... %d फ़ाइलें</string>
+    <string name="scan_all_file">अन्य सभी फाइलों को स्कैन करें</string>
+    <string name="scan_audio_file">डुप्लिकेट ऑडियो स्कैन करें</string>
+    <string name="scan_doc_file">डुप्लिकेट डॉक्स स्कैन करें</string>
+    <string name="scan_image_file">डुप्लिकेट छवियों को स्कैन करें</string>
+    <string name="scan_video_file">डुप्लिकेट वीडियो स्कैन करें</string>
+    <string name="analyzing">विश्लेषण कर रहा है...</string>
+
+    <string name="sd_content_1">चयनित फ़ाइलों को हटाने की अनुमति देने के लिए कृपया नीचे दिए गए निर्देशों का पालन करें।</string>
+    <string name="sd_content_2">अगर आपको एसडी कार्ड नहीं दिख रहा है, तो इसे आजमाएं।</string>
+    <string name="sd_title">बाहरी संग्रहण पहुंच की पुष्टि करें</string>
+    <string name="no_file_found">कोई डुप्लीकेट फाइल नहीं मिली</string>
+    <string name="delete_content">क्या आप फ़ाइल को हटाना चाहते हैं?</string>
+    <string name="delete_title">हटाने की पुष्टि करें</string>
+    <string name="file_removed">फ़ाइलें हटाई गईं</string>
+    <string name="grant_permission">अनुदान अनुमति</string>
+    <string name="delete_now">इसे अभी मिटाओ</string>
+    <string name="deep_clean">बेहतरीन सफाई</string>
+</resources>

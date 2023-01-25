@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Suppresseur de fichiers en double</string>
+    <string name="rating">Évaluer</string>
+    <string name="share">Partager avec des amis</string>
+    <string name="policy">POLITIQUE DE CONFIDENTIALITÉ</string>
+
+    <string name="more_app">Plus d\'application</string>
+    <string name="feedback">Retour d\'information</string>
+    <string name="scan">Analyse</string>
+
+    <string name="setting">Réglages</string>
+    <string name="scan_wait">Veuillez patienter pendant l\'analyse des fichiers...</string>
+    <string name="deleted_number_format">Supprimé... %d fichiers</string>
+    <string name="scan_all_file">Analyser tous les autres fichiers</string>
+    <string name="scan_audio_file">Analyser les fichiers audio en double</string>
+    <string name="scan_doc_file">Analyser les documents en double</string>
+    <string name="scan_image_file">Numériser les images en double</string>
+    <string name="scan_video_file">Analyser les vidéos en double</string>
+    <string name="analyzing">En cours d\'analyse...</string>
+
+    <string name="sd_content_1">Veuillez suivre les instructions ci-dessous pour autoriser la suppression des fichiers sélectionnés.</string>
+    <string name="sd_content_2">Si vous ne voyez pas la carte SD, essayez ceci.</string>
+    <string name="sd_title">Confirmer l\'accès au stockage externe</string>
+    <string name="no_file_found">Aucun fichier en double trouvé</string>
+    <string name="delete_content">Voulez-vous supprimer le fichier ?</string>
+    <string name="delete_title">Confirmation de la suppression</string>
+    <string name="file_removed">Fichiers supprimés</string>
+    <string name="grant_permission">Donner la permission</string>
+    <string name="delete_now">Effacer maintenant</string>
+    <string name="deep_clean">nettoyage en profondeur</string>
+</resources>

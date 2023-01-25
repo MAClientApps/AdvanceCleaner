@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">중복 파일 제거기</string>
+    <string name="rating">비율</string>
+    <string name="share">친구에게 공유</string>
+    <string name="policy">개인 정보 정책</string>
+
+    <string name="more_app">더 많은 앱</string>
+    <string name="feedback">피드백</string>
+    <string name="scan">주사</string>
+
+    <string name="setting">설정</string>
+    <string name="scan_wait">파일을 스캔하는 동안 잠시 기다려 주십시오...</string>
+    <string name="deleted_number_format">삭제된 ... %d개의 파일</string>
+    <string name="scan_all_file">다른 모든 파일 스캔</string>
+    <string name="scan_audio_file">중복 오디오 스캔</string>
+    <string name="scan_doc_file">중복 문서 스캔</string>
+    <string name="scan_image_file">중복 이미지 스캔</string>
+    <string name="scan_video_file">중복 비디오 스캔</string>
+    <string name="analyzing">분석하는...</string>
+
+    <string name="sd_content_1">선택한 파일을 삭제할 수 있는 권한을 부여하려면 아래 지침을 따르십시오.</string>
+    <string name="sd_content_2">SD 카드가 표시되지 않으면 다음을 시도하십시오.</string>
+    <string name="sd_title">외부 저장소 액세스 확인</string>
+    <string name="no_file_found">중복 파일을 찾을 수 없습니다</string>
+    <string name="delete_content">파일을 삭제하시겠습니까?</string>
+    <string name="delete_title">삭제 확인</string>
+    <string name="file_removed">제거된 파일</string>
+    <string name="grant_permission">권한 부여</string>
+    <string name="delete_now">지금 삭제</string>
+    <string name="deep_clean">딥클린</string>
+</resources>

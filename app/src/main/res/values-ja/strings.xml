@@ -1,0 +1,326 @@
+<resources>
+    <string name="app_name">スーパークリーナー</string>
+    <string name="title_details">軽く、速く、スマート</string>
+
+    <string name="title_home">家</string>
+    <string name="title_tool">ツールボックス</string>
+    <string name="title_persional">個人的</string>
+
+    <string name="junk_files">ジャンクファイル</string>
+    <string name="cpu_cooler">CPUクーラー</string>
+    <string name="phone_booster">電話ブースト</string>
+    <string name="antivirus">ウイルス対策</string>
+    <string name="power_saving">省エネ</string>
+    <string name="data_manager">データ管理者</string>
+    <string name="app_lock">アプリロック</string>
+    <string name="smart_charge">スマートチャージ</string>
+    <string name="message_security">メッセージのセキュリティ</string>
+    <string name="smart_cleanup">スマートクリーンアップ</string>
+    <string name="deep_clean">ディープクリーン</string>
+    <string name="app_uninstall">アプリのアンインストール</string>
+    <string name="game_booster">ゲームブースター</string>
+    <string name="game">ゲーム</string>
+    <string name="notification_manager">通知マネージャー</string>
+    <string name="harassment_fillter">ハラスメントフィッター</string>
+    <string name="speend_protector">支出の守護者</string>
+    <string name="payment_safe">支払いセーフ</string>
+    <string name="file_move">ファイルの移動</string>
+    <string name="app_lock_des">プライバシー データと財産を保護する</string>
+    <string name="smart_charge_des">過充電を避けるために充電状態を思い出させる</string>
+    <string name="message_security_des">プライベート メッセージは保護され、ここに保存されます</string>
+    <string name="smart_cleanup_des">携帯電話を自動的にクリーニングして、携帯電話を常に最適な状態に保ちます</string>
+    <string name="deep_clean_des">ファイルをより深くクリーンアップして、より多くのスペースを解放します</string>
+    <string name="app_uninstall_des">無駄なアプリを素早くアンインストール</string>
+    <string name="game_booster_des">より速く、より良いゲーム体験を提供します</string>
+    <string name="notification_manager_des">乱雑な通知バーを再び新鮮にします</string>
+    <string name="harassment_fillter_des">ハラスメントから離れて</string>
+    <string name="speend_protector_des">ユーザーの 99% より速い</string>
+    <string name="payment_safe_des">支払いのセキュリティを完全に保護</string>
+    <string name="file_move_des">ワンタップでファイルをSDカードに移動。空き容量を増やす</string>
+    <string name="junk_files_des">不要なデータの削除、キャッシュ ファイル、冗長性、広告</string>
+    <string name="cpu_cooler_des">デバイスの温度を下げてバッテリーを節約する</string>
+    <string name="phone_booster_des">パフォーマンスを向上させ、メモリを解放します</string>
+    <string name="antivirus_des">携帯電話をリアルタイムでスキャンして保護する</string>
+    <string name="power_saving_des">使用していないアプリを停止してバッテリーを節約する</string>
+    <string name="data_manager_des">アプリケーションのアンインストール、管理</string>
+
+    <string name="memory_used">使用メモリ</string>
+    <string name="storage_used">使用済みストレージ</string>
+    <string name="percent">%</string>
+    <string name="clean_and_boost">クリーン＆ブースト</string>
+    <string name="security_and_privacy">セキュリティとプライバシー</string>
+    <string name="has_protected_your_phone">%s はあなたの電話を %s 日間保護しました</string>
+    <string name="settings">設定</string>
+    <string name="feedback">フィードバック</string>
+    <string name="upgrade">アップグレード</string>
+    <string name="share">シェア</string>
+    <string name="like_facebook">Facebookでいいね！</string>
+    <string name="scaning">スキャン中……</string>
+    <string name="apps">アプリ</string>
+    <string name="memory_kill_found">メモリーキラーが見つかりました</string>
+    <string name="boost">ブースト</string>
+    <string name="running_app">実行中のアプリ</string>
+    <string name="empty_item_select">少なくとも 1 つの項目を選択する必要があります</string>
+    <string name="sm_edge_device_optimized">すごい！電源の問題を解決しました。</string>
+    <string name="clean">掃除</string>
+    <string name="cooling">冷却</string>
+    <string name="try_it">試す</string>
+
+    <string name="done">終わり</string>
+    <string name="protect_now">今すぐ保護</string>
+    <string name="save_now">今すぐ保存</string>
+    <string name="further_optimize_cpu">CPU をさらに最適化するには</string>
+    <string name="cpu_heating_app">CPU - 暖房アプリ</string>
+    <string name="cool_down">クールダウン</string>
+    <string name="scaning_cpu">CPU をスキャンしています...</string>
+    <string name="secretly_consuming_battery">密かにバッテリーを消費する</string>
+    <string name="extend_battery_life">バッテリーファイルの拡張</string>
+    <string name="battery_draining_app">バッテリー - アプリの消耗</string>
+    <string name="analyzing_battery_usage">バッテリー使用量の分析</string>
+    <string name="hibernation">「冬眠……」</string>
+    <string name="find_and_grant">%s を見つけて %s を与える</string>
+    <string name="deep_boost">ディープセーブ</string>
+    <string name="content_permission_1">自動起動アプリを閉じるには、アクセシビリティを許可してください。加速は50%増加する可能性があります</string>
+    <string name="normal_boost">通常保存</string>
+    <string name="grant_now">今すぐ付与</string>
+    <string name="grant_app_permission">包括的な電話スキャン効果のためにアプリの使用許可を付与する</string>
+    <string name="permission_needed">許可が必要です</string>
+
+
+    <string name="lockscreen_access_pattern_cell_added">追加されたセル</string>
+    <string name="lockscreen_access_pattern_start">ロック解除パターンを描く</string>
+    <string name="lockscreen_access_pattern_detected">パターンが保存されました</string>
+    <string name="lockscreen_access_pattern_cleared">パターンが削除されました</string>
+    <string name="lock_recording_intro_header">アプリのロック解除パターンを設定する</string>
+    <string name="lock_settings_help_how_to_record">ロック解除パターンの描き方</string>
+    <string name="lock_recording_incorrect_too_short">少なくとも 4 点を接続する必要があります。</string>
+    <string name="lock_pattern_entered_header">記録パターン</string>
+    <string name="lock_need_to_confirm">もう一度パターンを描いて確認する</string>
+    <string name="lock_need_to_unlock_wrong">柄が合わない。もう一度やり直してください。</string>
+    <string name="password_gestrue_tips">ロックを解除するパターンを描く</string>
+    <string name="password_error_count">パターンが一致しません。もう一度やり直してください。</string>
+    <string name="lock_pattern_confirmed_header">確定パターン</string>
+    <string name="password_question_01">一番思い出に残っていることは何ですか？</string>
+    <string name="password_question_02">「好きなペットの名前は？」</string>
+    <string name="password_question_03">誰があなたの彼女ですか？</string>
+    <string name="password_question_04">子供の頃の夢は？</string>
+    <string name="password_question_05">同性の誰かに恋をしたことがあるとしたら、その人は誰ですか?</string>
+    <string name="password_question_06">「高校で好きな先生の名前は？」</string>
+    <string name="password_question_07">子供の頃に行ってみたい場所は？</string>
+    <string name="password_question_08">過去に戻れるとしたら、いつ行きたいですか?</string>
+    <string name="password_question_09">あなたの彼氏は誰ですか？</string>
+
+    <string name="security_settings">セキュリティ設定</string>
+    <string name="sercurity_question">秘密の質問：</string>
+    <string name="answer">答え：</string>
+    <string name="input_your_answer">答えを入力してください</string>
+    <string name="answer_blank">答えは空白にできません</string>
+    <string name="password_answer_set_toast">セキュリティの質問と回答が設定されました。</string>
+    <string name="forgot_gesture">ジェスチャーを忘れた</string>
+    <string name="answer_question_error">セキュリティ回答の質問エラー</string>
+    <string name="not_setup_answer_question">質問への回答セキュリティを設定していません</string>
+    <string-array name="lock_time_array">
+        <item>15秒</item>
+        <item>30秒</item>
+        <item>1分</item>
+        <item>3分</item>
+        <item>5分</item>
+        <item>10分</item>
+        <item>30分</item>
+        <item>すぐに</item>
+    </string-array>
+
+    <string name="welcome_to_the_app_lock">アプリロックへようこそ</string>
+    <string name="reset">リセット</string>
+    <string name="search_application">アプリを検索</string>
+    <string name="lock_settings">ロック設定</string>
+    <string name="lock_immediately_after_locking_the_screen">ロックアプリはすぐに電話をロックします</string>
+    <string name="change_the_password">パターンを変更する</string>
+    <string name="hide_pattern">パターンを隠す</string>
+    <string name="search_applications">アプリを検索…</string>
+    <string name="search_for">検索する…</string>
+    <string name="_1_minute">1分</string>
+    <string name="accessibility_service_description">アクセシビリティ サービスに右上の使用をタップします。
+        \n
+        \nこれにより、Advance Cleaner は次のことができるようになります:
+        \n
+    \n- 隠されたがらくたを徹底的に掃除する
+    \n- ハイバネート ドレイン アプリ
+        \n
+    \nアクセシビリティ サービスを有効にするときは、Android システムの警告を受け入れる必要があります。クリーン マスターは、ここに記載されている以外の目的でこれらを使用することはありません。</string>
+    <string name="intruder_selfie">侵入者セルフィー</string>
+    <string name="vibrate">振動</string>
+    <string name="app_runing_background">アプリはバックグラウンドで実行されています</string>
+    <string name="app_background_task">このアプリのバックグラウンド タスク</string>
+    <string name="create_password">パスワードの作成</string>
+    <string name="create_pattern_lock">パターンロックを作成する</string>
+    <string name="on_off">オンオフ</string>
+    <string name="skip_app_title">選択したアプリケーションは、クリーンアップ中にキャンセルされません</string>
+    <string name="app_protect">アプリケーション保護</string>
+    <string name="list_app_skip">リスト無視</string>
+    <string name="ram">RAM</string>
+    <string name="ready_boost">レディアクセラレート</string>
+    <string name="create_shortcut">ショートカットを作成する</string>
+    <string name="notification_created_shortcut">ショートカット %s が作成されました</string>
+    <string name="list_game">ゲーム一覧</string>
+    <string name="select_game_to_boost">加速するゲームを選択</string>
+    <string name="app_not_exist">アプリケーションが存在しません</string>
+    <string name="game_add">追加されたゲーム: %s</string>
+    <string name="not_distub">ディスタブしない</string>
+    <string name="hide_notification_all">ゲームのプレイ中にすべてのアプリからの通知を非表示にする</string>
+    <string name="smart_charger_can_help">スマート充電器はあなたを助けることができます</string>
+    <string name="optimize_chargin_progress">充電プロセスを最適化</string>
+    <string name="remind_charger">\n過充電を避けるのに役立つリアルタイム リマインダー</string>
+    <string name="turn_on">今すぐオンにする</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="on">の上</string>
+    <string name="brightness">輝度</string>
+    <string name="auto">自動</string>
+    <string name="bluetooth">ブルートゥース</string>
+    <string name="off">オフ</string>
+    <string name="synchronize">同期</string>
+    <string name="charging_finished">充電完了</string>
+    <string name="auto_optimized">自動的に最適化</string>
+    <string name="clean_up">掃除</string>
+    <string name="pin">ピン</string>
+    <string name="data">データ</string>
+    <string name="power_full">バッテリーがいっぱいです</string>
+    <string name="battery_full_des">充電が終了しました。ソースを抜いてください。</string>
+    <string name="uninstall">アンインストール</string>
+    <string name="system_app">システムアプリ</string>
+    <string name="user_app">ユーザーアプリ</string>
+    <string name="other_app">その他のアプリケーション</string>
+    <string name="clean_notifi">クリーン通知</string>
+    <string name="social_app">ソーシャル ネットワーク アプリケーション</string>
+    <string name="third_app">サードパーティのアプリケーション</string>
+    <string name="spam_notification">通知スパム:</string>
+    <string name="no_data">データなし</string>
+    <string name="just_now_time">ちょうど今</string>
+    <string name="minute_ago">%s 分前</string>
+    <string name="Notificationbar_Spamnotification">スパム通知:</string>
+    <string name="Notificationbarcleanup_Guide1">スパム通知を整理し、ワンタップでクリアします</string>
+    <string name="Notificationbarcleanup_RightNow">今すぐ有効にする</string>
+    <string name="safety_scanning">安全スキャン</string>
+    <string name="security">安全</string>
+
+    <string name="per_read_phone_title">電話データの共有</string>
+    <string name="per_access_location_title">現在地の共有</string>
+    <string name="per_read_sms_title">あなたのSMSを読むことができます</string>
+    <string name="per_send_sms_title">SMSを送信できます</string>
+    <string name="per_call_phone_title">電話をかけることができます</string>
+    <string name="per_outgoing_call_title">発信通話を制御できます</string>
+    <string name="per_record_audio_title">オーディオを録音できます</string>
+    <string name="per_camera_title">カメラにアクセスできます</string>
+
+    <string name="per_read_phone_des">このアプリは、アドレス帳、モバイル PIN、通話履歴などの SIM カードの詳細を収集して送信します。これにより、データ プランに料金が追加される可能性があり、プライバシー リスクが高くなります。</string>
+    <string name="per_access_location_des">このアプリケーションは正確な位置にアクセスできるため、プライバシーを危険にさらす可能性があります。</string>
+    <string name="per_read_sms_des">このアプリケーションは、プライベート SMS を読み取ることができるため、プライバシーを危険にさらす可能性があります。</string>
+    <string name="per_send_sms_des">このアプリは SMS を送信できます。これにより、データ プランに料金が追加される可能性があり、プライバシー リスクが高くなります。</string>
+    <string name="per_call_phone_des">このアプリは、ユーザーが通話を確認するための Dialer ユーザー インターフェイスを経由せずに、通話を開始できます。これにより、データ プランに料金が追加される可能性があり、プライバシー リスクが高くなります。</string>
+    <string name="per_outgoing_call_des">このアプリは、発信通話中にダイヤルされた番号を確認し、通話を別の番号にリダイレクトするか、通話を完全に中止するオプションを使用できます。これにより、データ プランに料金が追加される可能性があり、プライバシー リスクが高くなります。</string>
+    <string name="per_record_audio_des">このアプリケーションは音声を録音できるため、プライバシーを危険にさらす可能性があります。</string>
+    <string name="per_camera_des">このアプリケーションはカメラ デバイスにアクセスできるため、プライバシーを脅かす可能性があります。</string>
+    <string name="in_danger">危険で</string>
+    <string name="resolve_all">すべて解決</string>
+    <string name="virus_app">ウイルスアプリ</string>
+    <string name="app_virus_content">このアプリは、ファイルやシステムの損傷などの複数の問題を引き起こしたり、バックドアを作成したりする可能性があります</string>
+    <string name="check">小切手</string>
+    <string name="dangerous_app">危険なアプリ</string>
+    <string name="app_dangerous_content">デバイスに損害を与える可能性があるアクセス許可を持つアプリを確認してください</string>
+    <string name="skip">スキップ</string>
+    <string name="issues_found">%s の問題が見つかりました</string>
+    <string name="skip_all">全部スキップ</string>
+    <string name="some_app_use_permission">一部のアプリケーションは危険な権限を使用しています</string>
+    <string name="app_dangerous">%s アプリケーションが危険です</string>
+    <string name="version">バージョン</string>
+    <string name="date">日付</string>
+    <string name="size">サイズ: %s</string>
+    <string name="request_permission">許可申請</string>
+    <string name="cancel">キャンセル</string>
+    <string name="security_threats">セキュリティの脅威</string>
+    <string name="ignore">無視</string>
+    <string name="skip_app_virus">"選択したアプリケーションはウイルススキャン中に無視されます"</string>
+    <string name="while_list">リストスキャン中</string>
+    <string name="no_junk">ジャンクファイルが見つかりません</string>
+    <string name="obsolete_apk">役に立たない APK</string>
+    <string name="system_cache">システムキャッシュ</string>
+    <string name="downloader_files">ダウンロードしたファイル</string>
+    <string name="large_files">大きなファイル</string>
+    <string name="op_clean">今すぐ掃除</string>
+    <string name="mb">MB</string>
+    <string name="notification_toggle">通知トグル</string>
+    <string name="Calculating">計算中....</string>
+    <string name="notification_setting">通知設定</string>
+    <string name="junk_reminder">ジャンク リマインダーの頻度</string>
+    <string name="every_3days">3日ごと</string>
+    <string name="phone_boost_reminder">電話ブーストのリマインダー</string>
+    <string name="remind_when_memory">メモリの使いすぎを通知する</string>
+    <string name="cpu_cooler_reminder">CPU クーラーのリマインダー</string>
+    <string name="remind_me_when_cpu">CPU が過熱したときに通知する</string>
+    <string name="battery_saver">バッテリーセーバー</string>
+    <string name="remind_me_when_app_draing">アプリが電池を消耗しているときに通知する</string>
+    <string name="app_install">アプリのインストール</string>
+    <string name="delete_the_apk">アプリのインストール後に APK ファイルを削除する</string>
+    <string name="delete_the_residual">アプリのアンインストール後に残ったジャンクを削除する</string>
+    <string name="antivirus_settings">ウイルス対策設定</string>
+    <string name="real_time_protection">リアルタイム保護</string>
+    <string name="ignore_list">リストを無視する</string>
+    <string name="do_not_distub">邪魔しないで</string>
+    <string name="general_settings">一般設定</string>
+    <string name="create_home_shortcut">ホーム画面のショートカットを作成</string>
+    <string name="remove_app_unstall">より多くのスペースを解放するために削除された、冗長なファイルが見つかった、削除されたファイル。</string>
+    <string name="deleting">削除しています。お待ちください....</string>
+    <string name="scan_virus">ウイルスをスキャンして……</string>
+    <string name="start_use">使い始める</string>
+    <string name="ok">わかった</string>
+    <string name="app_safe">このアプリケーションは安全です</string>
+    <string name="app_virus_contain">このアプリケーションにはウイルスが含まれています</string>
+    <string name="ram_going_full">ラムがいっぱいになる</string>
+    <string name="use_phone_boost">Phone Boost を使用して空き容量を増やす</string>
+    <string name="phone_is_hot">電話が熱い</string>
+    <string name="use_cpu_cleaner">CPUクリーナーを使ってクールダウン</string>
+    <string name="use_save_battery">バッテリーセーブを使う</string>
+    <string name="battery_low">電池残量が少ない</string>
+    <string name="note">ノート</string>
+    <string name="note_turn_off_notifi">いくつかのデバイスで。通知トグルがオフになっている場合、%s は安定しません。</string>
+    <string name="turn_off">消す</string>
+    <string name="junk_reminder_frequency">ジャンク リマインダーの頻度</string>
+    <string name="every_day">毎日</string>
+    <string name="every_7days">7日ごと</string>
+    <string name="never_reminder">通知しない</string>
+    <string name="start_at">で開始</string>
+    <string name="stop_at">立ち寄る</string>
+    <string name="detect_junk_file">検出されたジャンク ファイル</string>
+    <string name="use_junk_file">関数funkファイルを使用してクリーンアップする</string>
+    <string name="fix">修理</string>
+    <string name="optimize">最適化</string>
+    <string name="save">保存</string>
+    <string name="selcet_file_to_clean">クリーニングするファイルを選択していません</string>
+
+    <string name="floatint_windown_per">フローティング ウィンドウのアクセス許可</string>
+    <string name="accessibility_permission">アクセシビリティ許可</string>
+    <string name="listener_notification_per">リッスン通知許可</string>
+    <string name="write_setting_per">書き込み設定権限</string>
+    <string name="usage_access_permission">用途 アクセス許可</string>
+    <string name="external_storage_permission">デバイスの外部ストレージ メモリへのアクセスを許可する</string>
+    <string name="write_setting_permission">「デバイスの設定を変更する権限を付与する</string>
+    <string name="listen_notification_permission">デバイス通知をリッスンする権限を付与する</string>
+    <string name="overlay_permission">他のアプリへの表示を許可する</string>
+    <string name="accessibility_setting_permission">ユーザー補助サービスの使用を許可する</string>
+    <string name="splash_content">軽量、高速、スマート</string>
+    <string name="click_back">終了するにはもう一度 [戻る] をクリックしてください</string>
+
+    <string name="result_cooler">優秀な！冷却に成功。</string>
+    <string name="boost_result">終わり！ブーストされた</string>
+    <string name="clean_result">終了した！掃除した</string>
+    <string name="fast_charger_boosted_result">高速充電ブースト</string>
+    <string name="antivirus_result">安全！すべてのリスクが解決されます</string>
+    <string name="deep_clean_result">終了した！</string>
+    <string name="notification_manager_result">終了した！</string>
+    <string name="dectect_apk_install">1 個の APK がインストールされていることが検出されました</string>
+    <string name="conduct_scan_virus">ウイルススキャンを実行する</string>
+    <string name="dectect_apk_uninstall">1 個の APK がインストールされていることが検出されました</string>
+    <string name="conduct_cleanup">クリーンアップを実施する</string>
+    <string name="language">言語</string>
+
+</resources>

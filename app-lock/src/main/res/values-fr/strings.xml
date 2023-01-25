@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Verrou d\'application</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="nav_header_title">Studio Android</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Réglages</string>
+
+    <string name="share_friends">Partager avec des amis</string>
+    <string name="feed_back">Retour d\'information</string>
+    <string name="setting">Réglages</string>
+    <string name="themes">Thèmes</string>
+    <string name="kidzone">Espace enfants</string>
+    <string name="proximily_detection">Détection de proximité</string>
+    <string name="intruder_selfie">Intrus Selfie</string>
+    <string name="lock_option">Options de verrouillage</string>
+    <string name="detect_when_remove_pocket">Détecter lors du retrait de la poche de formulaire</string>
+    <string name="motion_detection">Détection de mouvement</string>
+    <string name="detect_when_device_move">Détecter quand les appareils sont déplacés</string>
+    <string name="charger_detection">Détection du chargeur</string>
+    <string name="detect_when_charger_disconnect">Détecter lorsque le chargeur est déconnecté</string>
+    <string name="child_restricted_area">Zone réservée aux enfants</string>
+    <string name="activate">Activer</string>
+    <string name="enable">Activer</string>
+    <string name="social_app">Appli réseau social</string>
+    <string name="third_app">Application tierce</string>
+    <string name="sound">Du son</string>
+    <string name="adjust_sound">Ajuster le son</string>
+    <string name="alarm_tone">Sonnerie d\'alarme</string>
+    <string name="customize_alarm_tone">Personnaliser la tonalité d\'alarme</string>
+    <string name="timer">Minuteur</string>
+    <string name="timer_according">Réglez la minuterie en fonction des besoins</string>
+    <string name="change_pin_code">Changer votre code PIN</string>
+    <string name="sercurity_question">Question de sécurité</string>
+    <string name="full_charger_alarm">Alarme de chargeur complet</string>
+    <string name="notifi_charger_connected">Avertir lorsque le chargeur est connecté</string>
+    <string name="vibrate_alarm">Vibrer l\'appareil pendant l\'alarme</string>
+    <string name="flash_during_alarm">Allumer le flash pendant l\'alarme</string>
+    <string name="reset_password">Réinitialiser le mot de passe</string>
+    <string name="pin_code_lock">Verrouillage par code PIN</string>
+    <string name="switch_to_pin">Passer au NIP</string>
+    <string name="switch_to_patern">Passer au MOTIF</string>
+    <string name="hide_pattern">Masquer le chemin de dessin du motif</string>
+    <string name="more_app">Plus d\'applications</string>
+    <string name="rate_us">Évaluez nous</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="share">Partager</string>
+    <string name="set_timer">Régler la minuterie</string>
+    <string name="seconds_05">05 secondes</string>
+    <string name="seconds_10">10 secondes</string>
+    <string name="seconds_15">15 secondes</string>
+    <string name="seconds_20">20 secondes</string>
+    <string name="seconds_25">25 secondes</string>
+    <string name="seconds_30">30 secondes</string>
+    <string name="save">sauvegarder</string>
+    <string name="less_than_50_letters">Moins de 50 lettres</string>
+    <string name="question">Question</string>
+    <string name="input_your_question">Entrez votre question</string>
+    <string name="answer">Réponse</string>
+    <string name="tone">Tonalité %d</string>
+    <string name="next">Prochain</string>
+    // Pattern code
+    <string name="enter_pattern_code">Entrer le mot de passe</string>
+    <string name="enter_new_pattern_code">entrer un nouveau mot de passe</string>
+    <string name="message_confirm_pattern_code">Veuillez confirmer le mot de passe</string>
+    <string name="error_message_confirm_pattern_code">Le mot de passe ne correspond pas</string>
+    <string name="error_message_check_pattern_code">Erreur de mot de passe</string>
+    <string name="set_up_question">Question</string>
+    <string name="message_fill_all_information">"Veuillez remplir toutes les informations"</string>
+    <string name="message_confirm_pattern_code_success">Confirmer le succès</string>
+    <string name="action_confirm">Confirmer</string>
+    <string name="message_change_pattern_code_success">Changer le succès</string>
+    <string name="pin_incorrect">Code PIN incorrect : %s</string>
+    <string name="no_data">Aucune donnée d\'élément à afficher</string>
+    <string name="incorrect_password_entries">Entrées de mot de passe incorrectes</string>
+    <string name="empty">Vide</string>
+
+    <string name="once">Une fois que</string>
+    <string name="times_3">3 fois</string>
+    <string name="times_5">5 fois</string>
+    // Pin code
+    <string name="enter_pin_code">Entrer le mot de passe</string>
+    <string name="enter_new_pin_code">entrer un nouveau mot de passe</string>
+    <string name="message_confirm_pin_code">Veuillez confirmer le mot de passe</string>
+    <string name="error_message_confirm_pin_code">Le mot de passe ne correspond pas</string>
+    <string name="error_message_check_pin_code">Erreur de mot de passe</string>
+    <string name="message_confirm_pin_code_success">Confirmer le succès</string>
+    <string name="message_anser_empty">Anser ne doit pas vider</string>
+    <string name="message_error_question_anser">La question ou la réponse sont fausses</string>
+    <string name="message_change_question_anser_success">Changer le succès de la question</string>
+    <string name="message_enter_new_question_anser">Entrez une nouvelle question et répondez pour changer</string>
+
+    <string name="app_running">%s est en cours d\'exécution</string>
+    <string name="activate_alarm">Alarme activée</string>
+    <string name="message_proximity_actived">Détection de proximité activée</string>
+    <string name="message_motion_actived">Détection de mouvement activée</string>
+    <string name="message_charger_actived">Détection chargeur activé</string>
+
+    //
+    <string name="grant_now">Accorder maintenant</string>
+    <string name="permission_needed">Autorisation requise</string>
+    <string name="grant_app_permission">Accordez l\'autorisation d\'utilisation de l\'application pour un effet d\'analyse complet du téléphone</string>
+    <string name="write_setting_per">autorisation de réglage en écriture</string>
+    <string name="usage_access_permission">autorisation d\'accès</string>
+    <string name="external_storage_permission">Autoriser l\'accès à la mémoire de stockage externe de l\'appareil</string>
+    <string name="camera_permission">Autoriser l\'accès à la caméra de l\'appareil</string>
+    <string name="write_setting_permission">"Accorder l\'autorisation de modifier les paramètres de l\'appareil</string>
+    <string name="listen_notification_permission">Accorder l\'autorisation d\'écouter les notifications de l\'appareil</string>
+    <string name="overlay_permission">Accorder l\'autorisation d\'afficher sur d\'autres applications</string>
+    <string name="accessibility_setting_permission">Accorder l\'autorisation d\'utiliser le service d\'accessibilité</string>
+    <string name="find_and_grant">Trouvez %s et accordez %s</string>
+    <string name="floatint_windown_per">autorisation de fenêtre flottante</string>
+    <string name="accessibility_permission">autorisation d\'accessibilité</string>
+    <string name="listener_notification_per">écouter l\'autorisation de notification</string>
+
+    <string name="accessibility_service_description">Appuyez sur en haut à droite pour accéder au service d\'accessibilité.
+        \n
+        \nCela permettra à Applock : Le fonctionnement est plus stable
+        \n
+    \nVous devrez accepter les avertissements du système Android lors de l\'activation du service d\'accessibilité. Applock ne les utilisera pas à d\'autres fins que celles énumérées ici.</string>
+    <string name="ok">D\'ACCORD</string>
+    <string name="content_set_up_password">Veuillez configurer un mot de passe pour la première utilisation</string>
+    <string name="turn_on_charger">Veuillez brancher le chargeur avant d\'activer l\'alarme.</string>
+    <string name="forgot_password">Mot de passe oublié</string>
+    <string name="message_plug_in_before_using">Veuillez brancher le chargeur avant d\'utiliser</string>
+    <string name="finger_unlock">Déverrouillage par empreinte digitale</string>
+    <string name="menu_home">Verrouiller l\'application</string>
+    <string name="menu_theme">Thème</string>
+    <string name="menu_app_mask">Masque d\'application</string>
+    <string name="menu_security">Sécurité</string>
+    <string name="menu_setting">Paramètre</string>
+    <string name="menu_ivy">Famille de lierre</string>
+    <string name="save_ok">Enregistré</string>
+    <string name="limit_lock_time">Temps de verrouillage limité</string>
+    <string name="collection">Le recueil</string>
+    <string name="change_password">Changer le mot de passe</string>
+    <string name="switch_to_password">Changer de mot de passe</string>
+    <string name="advanced_detection">"Protection avancée"</string>
+    <string name="rate">Évaluer</string>
+    <string name="limited_lock_time">Temps de verrouillage limité</string>
+    <string name="lock_new_app">Nouveau verrouillage d\'application</string>
+    <string name="alway_lock">Toujours verrouillé</string>
+    <string name="five_minutes">5 minutes</string>
+    <string name="phone_screen_off">Jusqu\'à ce que l\'écran du téléphone s\'éteigne</string>
+
+    <string name="stop_applock">Votre application ne sera-t-elle pas protégée si vous arrêtez applock ?</string>
+    <string name="cancel">Annuler</string>
+
+    <string name="apply">Appliquer</string>
+    <string name="map">Carte</string>
+    <string name="evaluate">Évaluer</string>
+    <string name="achieve">Réalisations</string>
+    <string name="health">Surveillance de la santé</string>
+    <string name="app_mask">Masque d\'application</string>
+
+    <string name="changed_icon">Icône modifiée.</string>
+    <string name="changed_icon_message">Le remplacement de l\'icône de l\'application Calculatrice peut prendre quelques secondes en fonction du lanceur du téléphone. Si la nouvelle icône \'apparaît pas dans quelques secondes, redémarrez votre appareil.</string>
+    <string name="advanced_protection">Protection avancée</string>
+    <string name="header_advanced">Pour une protection parfaite, nous vous recommandons d\'autoriser tous les droits.</string>
+    <string name="used_camera">Utiliser l\'appareil photo</string>
+    <string name="take_photos_intruders">Prendre des photos des intrus</string>
+    <string name="stable_operation">Fonctionnement stable</string>
+    <string name="keep_applock_smoothly">Gardez Applock fonctionne correctement</string>
+    <string name="energy_saving">Économie d\'énergie</string>
+    <string name="saving_extending_pin_life">Économiser sur la prolongation de la durée de vie du code PIN</string>
+    <string name="popup">Apparaitre</string>
+    <string name="keep_applock_background">Gardez Applock en arrière-plan</string>
+    <string name="change_language">Changer de langue</string>
+    <string name="action_search">Chercher</string>
+    <string name="app_lock">Verrou d\'application</string>
+</resources>

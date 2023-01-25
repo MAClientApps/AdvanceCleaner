@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Penghapus File Duplikat</string>
+    <string name="rating">Kecepatan</string>
+    <string name="share">Bagikan ke teman</string>
+    <string name="policy">KEBIJAKAN PRIBADI</string>
+
+    <string name="more_app">Lebih Banyak Aplikasi</string>
+    <string name="feedback">Masukan</string>
+    <string name="scan">Pindai</string>
+
+    <string name="setting">Pengaturan</string>
+    <string name="scan_wait">Harap tunggu saat memindai file...</string>
+    <string name="deleted_number_format">Dihapus ... %d file</string>
+    <string name="scan_all_file">Pindai Semua File Lainnya</string>
+    <string name="scan_audio_file">Pindai Audio Duplikat</string>
+    <string name="scan_doc_file">Pindai Dokumen Duplikat</string>
+    <string name="scan_image_file">Pindai Gambar Duplikat</string>
+    <string name="scan_video_file">Pindai Video Duplikat</string>
+    <string name="analyzing">Menganalisa...</string>
+
+    <string name="sd_content_1">Harap ikuti petunjuk di bawah ini untuk memberikan izin untuk menghapus file yang dipilih.</string>
+    <string name="sd_content_2">Jika Anda tidak melihat kartu SD, coba ini.</string>
+    <string name="sd_title">Konfirmasi Akses Penyimpanan Eksternal</string>
+    <string name="no_file_found">Tidak Ada File Duplikat Ditemukan</string>
+    <string name="delete_content">Apakah Anda ingin menghapus file?</string>
+    <string name="delete_title">Konfirmasi Hapus</string>
+    <string name="file_removed">File Dihapus</string>
+    <string name="grant_permission">Memberikan ijin</string>
+    <string name="delete_now">Hapus sekarang</string>
+    <string name="deep_clean">deep_clean</string>
+</resources>

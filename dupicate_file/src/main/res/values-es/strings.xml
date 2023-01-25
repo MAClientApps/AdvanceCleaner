@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Eliminador de archivos duplicados</string>
+    <string name="rating">Velocidad</string>
+    <string name="share">Compartir con amigos</string>
+    <string name="policy">POLÍTICA DE PRIVACIDAD</string>
+
+    <string name="more_app">Más aplicaciones</string>
+    <string name="feedback">Retroalimentación</string>
+    <string name="scan">Escanear</string>
+
+    <string name="setting">Ajustes</string>
+    <string name="scan_wait">Espere mientras escanea archivos...</string>
+    <string name="deleted_number_format">Eliminados... %d archivos</string>
+    <string name="scan_all_file">Escanear todos los demás archivos</string>
+    <string name="scan_audio_file">Escanear audios duplicados</string>
+    <string name="scan_doc_file">Escanear documentos duplicados</string>
+    <string name="scan_image_file">Escanear imágenes duplicadas</string>
+    <string name="scan_video_file">Escanear videos duplicados</string>
+    <string name="analyzing">Analizando...</string>
+
+    <string name="sd_content_1">Siga las instrucciones a continuación para otorgar permiso para eliminar los archivos seleccionados.</string>
+    <string name="sd_content_2">Si no ve la tarjeta SD, intente esto.</string>
+    <string name="sd_title">Confirmar acceso al almacenamiento externo</string>
+    <string name="no_file_found">No se encontraron archivos duplicados</string>
+    <string name="delete_content">¿Quieres eliminar el archivo?</string>
+    <string name="delete_title">Confirmar eliminación</string>
+    <string name="file_removed">Archivos eliminados</string>
+    <string name="grant_permission">Conceder permiso</string>
+    <string name="delete_now">Elimina ahora</string>
+    <string name="deep_clean">limpieza profunda</string>
+</resources>

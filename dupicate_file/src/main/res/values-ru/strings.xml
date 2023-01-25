@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Удаление дубликатов файлов</string>
+    <string name="rating">Оценивать</string>
+    <string name="share">Поделитесь с друзьями</string>
+    <string name="policy">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</string>
+
+    <string name="more_app">Больше приложений</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="scan">Сканировать</string>
+
+    <string name="setting">Настройки</string>
+    <string name="scan_wait">Пожалуйста, подождите, пока сканируются файлы...</string>
+    <string name="deleted_number_format">Удалено ... %d файлов</string>
+    <string name="scan_all_file">Сканировать все остальные файлы</string>
+    <string name="scan_audio_file">Сканировать дубликаты аудио</string>
+    <string name="scan_doc_file">Сканировать дубликаты документов</string>
+    <string name="scan_image_file">Сканировать дубликаты изображений</string>
+    <string name="scan_video_file">Сканировать дубликаты видео</string>
+    <string name="analyzing">Анализ...</string>
+
+    <string name="sd_content_1">Следуйте приведенным ниже инструкциям, чтобы предоставить разрешение на удаление выбранных файлов.</string>
+    <string name="sd_content_2">Если вы не видите SD-карту, попробуйте это.</string>
+    <string name="sd_title">Подтвердите доступ к внешнему хранилищу</string>
+    <string name="no_file_found">Повторяющиеся файлы не найдены</string>
+    <string name="delete_content">Вы хотите удалить файл?</string>
+    <string name="delete_title">Подтвердите удаление</string>
+    <string name="file_removed">Файлы удалены</string>
+    <string name="grant_permission">Предоставить разрешение</string>
+    <string name="delete_now">Удалить сейчас</string>
+    <string name="deep_clean">глубокая_очистка</string>
+</resources>

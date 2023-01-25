@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.lakshita.suman.advancecleaner">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.FOREFGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.QUICKBOOT_POWERON" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission
+        android:name="android.permission.CLEAR_APP_CACHE"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" /> <!-- applock -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+    <application
+        android:name="com.lakshita.suman.advancecleaner.CleanMasterApp"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Translucent"
+        tools:replace="android:theme">
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_app_id" />
+
+        <activity
+            android:name=".screen.splash.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".screen.main.MainActivity"
+            android:exported="false" />
+        <activity android:name=".screen.setting.SettingActivity" />
+        <activity android:name=".screen.phoneboost.PhoneBoostActivity" />
+        <activity android:name=".screen.result.ResultAcitvity" />
+        <activity android:name=".screen.guildPermission.GuildPermissionActivity" />
+        <activity android:name=".screen.junkfile.JunkFileActivity" />
+        <activity android:name=".screen.listAppSelect.AppSelectActivity" />
+        <activity android:name=".screen.gameboost.GameBoostActivity" />
+        <activity android:name=".screen.appManager.AppManagerActivity" />
+        <activity android:name=".screen.smartCharger.SmartChargerBoostActivity" />
+        <activity
+            android:name=".screen.smartCharger.SmartChargerActivity"
+            android:theme="@style/Theme.AppCompat.Translucent.green" />
+        <activity android:name=".screen.cleanNotification.NotificationCleanSettingActivity" />
+        <activity android:name=".screen.cleanNotification.NotificationCleanActivity" />
+        <activity android:name=".screen.cleanNotification.NotificationCleanGuildActivity" />
+        <activity android:name=".screen.antivirus.AntivirusActivity" />
+        <activity android:name=".screen.ExitActivity" />
+        <activity android:name=".screen.antivirus.ScanAppInstallActivity" />
+        <activity android:name=".screen.antivirus.ScanAppUninstallActivity" />
+        <activity android:name=".screen.notDissturb.NotDissturbActivity" />
+
+        <service
+            android:name="com.lakshita.suman.advancecleaner.service.NotificationListener"
+            android:exported="false"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.lakshita.suman.advancecleaner.service.ServiceManager"
+            android:exported="false" />
+
+        <receiver android:name="com.lakshita.suman.advancecleaner.receiver.BatteryStatusReceiver" />
+        <receiver android:name="com.lakshita.suman.advancecleaner.receiver.PackageRecerver" />
+        <receiver
+            android:name="com.lakshita.suman.advancecleaner.receiver.AlarmReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.app.action.alarmmanager" />
+            </intent-filter>
+        </receiver> <!-- app lock -->
+        <receiver
+            android:name="com.lakshita.suman.advancecleaner.lock.receiver.LockRestarterBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="RestartServiceWhenStopped" />
+
+        <activity
+            android:name="com.lakshita.suman.advancecleaner.lock.activities.main.SplashLockActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Translucent.lock" />
+        <activity
+            android:name="com.lakshita.suman.advancecleaner.lock.activities.pwd.CreatePwdLockActivity"
+            android:label="@string/create_password"
+            android:theme="@style/Theme.AppCompat.Translucent.lock" />
+        <activity
+            android:name="com.lakshita.suman.advancecleaner.lock.activities.lock.GestureSelfUnlockLockActivity"
+            android:label="Unlock"
+            android:theme="@style/Theme.AppCompat.Translucent.lock" />
+        <activity
+            android:name="com.lakshita.suman.advancecleaner.lock.activities.lock.GestureUnlockLockActivity"
+            android:excludeFromRecents="true"
+            android:label=""
+            android:launchMode="singleTop"
+            android:noHistory="true"
+            android:theme="@style/unlock_activity_style" />
+        <activity
+            android:name="com.lakshita.suman.advancecleaner.lock.activities.setting.LockSettingLockActivity"
+            android:label="Settings"
+            android:theme="@style/Theme.AppCompat.Translucent.lock" />
+        <activity
+            android:name="com.lakshita.suman.advancecleaner.lock.activities.lock.GestureCreateLockActivity"
+            android:label="@string/create_pattern_lock"
+            android:theme="@style/Theme.AppCompat.Translucent.lock" />
+        <activity
+            android:name="com.lakshita.suman.advancecleaner.lock.activities.main.MainLockActivity"
+            android:theme="@style/Theme.AppCompat.Translucent.lock" />
+        <activity
+            android:name="com.lakshita.suman.advancecleaner.lock.activities.setting.SecuritySettingActivity"
+            android:theme="@style/Theme.AppCompat.Translucent.lock" />
+
+        <service android:name="com.lakshita.suman.advancecleaner.lock.services.LoadAppListService" />
+        <service android:name="com.lakshita.suman.advancecleaner.lock.services.LockService" />
+
+        <receiver
+            android:name="com.lakshita.suman.advancecleaner.lock.receiver.BootBroadcastReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.lakshita.suman.advancecleaner.receiver.AutoRebootReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+            <intent-filter android:priority="99999">
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.SCREEN_ON" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.net.wifi.STATE_CHANGE" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

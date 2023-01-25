@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Uygulama kilidi</string>
+    <string name="navigation_drawer_open">Gezinme çekmecesini aç</string>
+    <string name="navigation_drawer_close">Gezinme çekmecesini kapat</string>
+    <string name="nav_header_title">Android Stüdyosu</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Gezinme başlığı</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <string name="share_friends">Arkadaşlarınla ​​paylaş</string>
+    <string name="feed_back">Geri bildirim</string>
+    <string name="setting">Ayarlar</string>
+    <string name="themes">Temalar</string>
+    <string name="kidzone">çocuk bölgesi</string>
+    <string name="proximily_detection">Yakınlık Algılama</string>
+    <string name="intruder_selfie">davetsiz misafir selfiesi</string>
+    <string name="lock_option">Kilit Seçenekleri</string>
+    <string name="detect_when_remove_pocket">Form cebini ne zaman kaldırdığını algıla</string>
+    <string name="motion_detection">Hareket algılama</string>
+    <string name="detect_when_device_move">Cihazların ne zaman taşındığını algıla</string>
+    <string name="charger_detection">Şarj Algılama</string>
+    <string name="detect_when_charger_disconnect">Şarj cihazının bağlantısı kesildiğinde algıla</string>
+    <string name="child_restricted_area">Çocuklara yasak bölge</string>
+    <string name="activate">etkinleştir</string>
+    <string name="enable">Olanak vermek</string>
+    <string name="social_app">Sosyal ağ uygulaması</string>
+    <string name="third_app">Üçüncü taraf uygulaması</string>
+    <string name="sound">Ses</string>
+    <string name="adjust_sound">Sesi ayarla</string>
+    <string name="alarm_tone">Alarm sesi</string>
+    <string name="customize_alarm_tone">Alarm Tonunu Özelleştir</string>
+    <string name="timer">zamanlayıcı</string>
+    <string name="timer_according">Zamanlayıcıyı ihtiyaca göre ayarlayın</string>
+    <string name="change_pin_code">PIN kodunuzu değiştirin</string>
+    <string name="sercurity_question">Güvenlik Sorusu</string>
+    <string name="full_charger_alarm">tam Şarj Alarmı</string>
+    <string name="notifi_charger_connected">Şarj Cihazı Bağlandığında Bildir</string>
+    <string name="vibrate_alarm">Alarm Sırasında Titreşim Cihazı</string>
+    <string name="flash_during_alarm">Alarm Sırasında Flaş Işığını Açın</string>
+    <string name="reset_password">Şifreyi yenile</string>
+    <string name="pin_code_lock">Pin Kodu Kilidi</string>
+    <string name="switch_to_pin">PIN\'e geç</string>
+    <string name="switch_to_patern">DESEN\'e geç</string>
+    <string name="hide_pattern">Desen çizme yolunu gizle</string>
+    <string name="more_app">Daha fazla uygulama</string>
+    <string name="rate_us">Bizi değerlendirin</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="share">Paylaşmak</string>
+    <string name="set_timer">Zamanlayıcıyı Kur</string>
+    <string name="seconds_05">05 Saniye</string>
+    <string name="seconds_10">10 saniye</string>
+    <string name="seconds_15">15 saniye</string>
+    <string name="seconds_20">20 Saniye</string>
+    <string name="seconds_25">25 Saniye</string>
+    <string name="seconds_30">30 saniye</string>
+    <string name="save">Kaydetmek</string>
+    <string name="less_than_50_letters">50\'den az harf</string>
+    <string name="question">Soru</string>
+    <string name="input_your_question">Sorunuzu girin</string>
+    <string name="answer">Cevap</string>
+    <string name="tone">Ton %d</string>
+    <string name="next">Sonraki</string>
+    // Pattern code
+    <string name="enter_pattern_code">Şifre girin</string>
+    <string name="enter_new_pattern_code">yeni bir şifre gir</string>
+    <string name="message_confirm_pattern_code">Lütfen şifreyi onaylayın</string>
+    <string name="error_message_confirm_pattern_code">Şifre eşleşmiyor</string>
+    <string name="error_message_check_pattern_code">Şifre hatası</string>
+    <string name="set_up_question">Soru</string>
+    <string name="message_fill_all_information">"Lütfen tüm bilgileri doldurun"</string>
+    <string name="message_confirm_pattern_code_success">Başarıyı onaylayın</string>
+    <string name="action_confirm">Onaylamak</string>
+    <string name="message_change_pattern_code_success">Başarıyı değiştir</string>
+    <string name="pin_incorrect">Yanlış PIN: %s</string>
+    <string name="no_data">Görüntülenecek öğe verisi yok</string>
+    <string name="incorrect_password_entries">Yanlış Şifre Girişleri</string>
+    <string name="empty">Boş</string>
+
+    <string name="once">Bir kere</string>
+    <string name="times_3">3 kez</string>
+    <string name="times_5">5 kere</string>
+    // Pin code
+    <string name="enter_pin_code">Şifre girin</string>
+    <string name="enter_new_pin_code">yeni bir şifre gir</string>
+    <string name="message_confirm_pin_code">Lütfen şifreyi onaylayın</string>
+    <string name="error_message_confirm_pin_code">Şifre eşleşmiyor</string>
+    <string name="error_message_check_pin_code">Şifre hatası</string>
+    <string name="message_confirm_pin_code_success">Başarıyı onaylayın</string>
+    <string name="message_anser_empty">Anser boş olmamalıdır</string>
+    <string name="message_error_question_anser">Soru veya cevap yanlış</string>
+    <string name="message_change_question_anser_success">Soru başarısını değiştir</string>
+    <string name="message_enter_new_question_anser">Değiştirilecek yeni soru ve cevap girin</string>
+
+    <string name="app_running">%s çalışıyor</string>
+    <string name="activate_alarm">Alarm Etkinleştirildi</string>
+    <string name="message_proximity_actived">Algılama yakınlığı etkinleştirildi</string>
+    <string name="message_motion_actived">Algılama hareketi etkinleştirildi</string>
+    <string name="message_charger_actived">Algılama şarj cihazı etkinleştirildi</string>
+
+    //
+    <string name="grant_now">Şimdi Ver</string>
+    <string name="permission_needed">İzin Gerekli</string>
+    <string name="grant_app_permission">Kapsamlı bir telefon tarama efekti için Uygulama Kullanım İzni verin</string>
+    <string name="write_setting_per">ayar izni yazma</string>
+    <string name="usage_access_permission">kullanım Erişim izni</string>
+    <string name="external_storage_permission">Cihazdaki harici depolama belleğine erişim izni verin</string>
+    <string name="camera_permission">Cihazdaki kameraya erişim izni verin</string>
+    <string name="write_setting_permission">"Cihaz ayarlarını değiştirme izni ver</string>
+    <string name="listen_notification_permission">Cihaz bildirimlerini dinleme izni verin</string>
+    <string name="overlay_permission">Diğer uygulamalarda görüntüleme izni verin</string>
+    <string name="accessibility_setting_permission">Erişilebilirlik hizmetini kullanma izni verin</string>
+    <string name="find_and_grant">%s bulun ve %s verin</string>
+    <string name="floatint_windown_per">yüzen Pencere izni</string>
+    <string name="accessibility_permission">erişilebilirlik izni</string>
+    <string name="listener_notification_per">bildirim iznini dinle</string>
+
+    <string name="accessibility_service_description">Erişilebilirlik hizmetini kullanmak için sağ üstte dokunun.
+        \n
+        \nBu, Applock\'un şunları yapmasını sağlar: İşlem daha kararlı
+        \n
+    \nErişilebilirlik hizmetini etkinleştirirken Android sistem uyarılarını kabul etmeniz gerekecek. Applock bunları burada listelenenlerin dışında herhangi bir amaçla kullanmayacaktır.</string>
+    <string name="ok">TAMAM</string>
+    <string name="content_set_up_password">Lütfen ilk kullanım için bir şifre belirleyin</string>
+    <string name="turn_on_charger">Lütfen alarmı açmadan önce şarj cihazını prize takın.</string>
+    <string name="forgot_password">Parolanızı mı unuttunuz</string>
+    <string name="message_plug_in_before_using">Lütfen kullanmadan önce şarj cihazını prize takın</string>
+    <string name="finger_unlock">Parmak İzi Kilidi</string>
+    <string name="menu_home">LockApp</string>
+    <string name="menu_theme">Tema</string>
+    <string name="menu_app_mask">Uygulama Maskesi</string>
+    <string name="menu_security">Güvenlik</string>
+    <string name="menu_setting">Ayar</string>
+    <string name="menu_ivy">IVY Ailesi</string>
+    <string name="save_ok">kaydedildi</string>
+    <string name="limit_lock_time">Sınırlı kilit süresi</string>
+    <string name="collection">Toplamak</string>
+    <string name="change_password">Şifre değiştir</string>
+    <string name="switch_to_password">Şifre değiştir</string>
+    <string name="advanced_detection">"Gelişmiş koruma"</string>
+    <string name="rate">Oran</string>
+    <string name="limited_lock_time">Sınırlı kilit süresi</string>
+    <string name="lock_new_app">Yeni uygulama kilidi</string>
+    <string name="alway_lock">her zaman kilitli</string>
+    <string name="five_minutes">5 dakika</string>
+    <string name="phone_screen_off">Telefon ekranı kapanana kadar</string>
+
+    <string name="stop_applock">Applock\'u durdurursanız uygulamanız korumasız kalır mı?</string>
+    <string name="cancel">İptal</string>
+
+    <string name="apply">Uygulamak</string>
+    <string name="map">Harita</string>
+    <string name="evaluate">Değerlendirmek</string>
+    <string name="achieve">Başarılar</string>
+    <string name="health">Sağlık izleme</string>
+    <string name="app_mask">Uygulama Maskesi</string>
+
+    <string name="changed_icon">Simge Değiştirildi.</string>
+    <string name="changed_icon_message">Hesap Makinesi Uygulaması simgesinin değiştirilmesi, telefonun başlatıcısına bağlı olarak birkaç saniye sürebilir. Birkaç saniye içinde yeni simge görünmezse cihazınızı yeniden başlatın.</string>
+    <string name="advanced_protection">Gelişmiş koruma</string>
+    <string name="header_advanced">Mükemmel koruma için tüm haklara izin vermenizi öneririz.</string>
+    <string name="used_camera">kamerayı kullan</string>
+    <string name="take_photos_intruders">Davetsiz misafirlerin fotoğraflarını çekin</string>
+    <string name="stable_operation">kararlı çalışma</string>
+    <string name="keep_applock_smoothly">Applock\'un sorunsuz çalışmasını sağlayın</string>
+    <string name="energy_saving">Enerji tasarrufu</string>
+    <string name="saving_extending_pin_life">PIN ömrünü uzatmak için tasarruf</string>
+    <string name="popup">Açılır</string>
+    <string name="keep_applock_background">Applock\'u arka planda çalışır durumda tutun</string>
+    <string name="change_language">Dili değiştir</string>
+    <string name="action_search">Arama</string>
+    <string name="app_lock">Uygulama kilidi</string>
+
+</resources>

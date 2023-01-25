@@ -1,0 +1,326 @@
+<resources>
+    <string name="app_name">Super nettoyeur</string>
+    <string name="title_details">Léger, rapide et intelligent</string>
+
+    <string name="title_home">Maison</string>
+    <string name="title_tool">Boîte à outils</string>
+    <string name="title_persional">Personnel</string>
+
+    <string name="junk_files">Spams</string>
+    <string name="cpu_cooler">Refroidisseur de processeur</string>
+    <string name="phone_booster">Coup de pouce téléphonique</string>
+    <string name="antivirus">antivirus</string>
+    <string name="power_saving">Economie d\'énergie</string>
+    <string name="data_manager">Gestionnaire de données</string>
+    <string name="app_lock">Verrou d\'application</string>
+    <string name="smart_charge">Recharge intelligente</string>
+    <string name="message_security">Sécurité des messages</string>
+    <string name="smart_cleanup">Nettoyage intelligent</string>
+    <string name="deep_clean">Nettoyage en profondeur</string>
+    <string name="app_uninstall">Désinstallation de l\'application</string>
+    <string name="game_booster">Booster de jeu</string>
+    <string name="game">Jeu</string>
+    <string name="notification_manager">Gestionnaire de notifications</string>
+    <string name="harassment_fillter">filtre de harcèlement</string>
+    <string name="speend_protector">Protecteur de dépenses</string>
+    <string name="payment_safe">Paiement sécurisé</string>
+    <string name="file_move">Déplacement de fichier</string>
+    <string name="app_lock_des">Protégez les données confidentielles et la propriété</string>
+    <string name="smart_charge_des">Vous rappeler l\'état de charge pour éviter la surcharge</string>
+    <string name="message_security_des">Les messages privés seront protégés et stockés ici</string>
+    <string name="smart_cleanup_des">nettoyez automatiquement votre téléphone pour que votre téléphone fonctionne toujours au mieux</string>
+    <string name="deep_clean_des">Nettoyez les fichiers plus profondément pour libérer plus d\'espace</string>
+    <string name="app_uninstall_des">Désinstallez rapidement les applications inutiles</string>
+    <string name="game_booster_des">Vous offrir une expérience de jeu plus rapide et meilleure</string>
+    <string name="notification_manager_des">Rendre la barre de notification désordonnée à nouveau</string>
+    <string name="harassment_fillter_des">Loin du harcèlement</string>
+    <string name="speend_protector_des">Plus rapide que 99  %des utilisateurs</string>
+    <string name="payment_safe_des">Protégez votre sécurité de paiement jusqu\'au bout</string>
+    <string name="file_move_des">Déplacez les fichiers en un clic sur la carte SD. Libérez plus d\'espace</string>
+    <string name="junk_files_des">Supprimer les données inutiles, les fichiers de cache, la redondance, les publicités</string>
+    <string name="cpu_cooler_des">Réduire la température de l\'appareil pour économiser la batterie</string>
+    <string name="phone_booster_des">Améliorez les performances, libérez de la mémoire</string>
+    <string name="antivirus_des">Scannez et protégez votre téléphone en temps réel</string>
+    <string name="power_saving_des">Arrêtez les applications inutilisées pour économiser la batterie</string>
+    <string name="data_manager_des">Désinstaller, gérer les applications</string>
+
+    <string name="memory_used">Mémoire utilisée</string>
+    <string name="storage_used">Stockage utilisé</string>
+    <string name="percent">%</string>
+    <string name="clean_and_boost">Nettoyer et Booster</string>
+    <string name="security_and_privacy">Sécurité et confidentialité</string>
+    <string name="has_protected_your_phone">%s a protégé votre téléphone %s jour(s)</string>
+    <string name="settings">Réglages</string>
+    <string name="feedback">Retour d\'information</string>
+    <string name="upgrade">Mise à niveau</string>
+    <string name="share">Partager</string>
+    <string name="like_facebook">Aimez-nous sur facebook</string>
+    <string name="scaning">Numérisation……</string>
+    <string name="apps">applications</string>
+    <string name="memory_kill_found">Tueur de mémoire trouvé</string>
+    <string name="boost">Augmenter</string>
+    <string name="running_app">Applications en marche</string>
+    <string name="empty_item_select">Vous devez sélectionner au moins 1 élément</string>
+    <string name="sm_edge_device_optimized">Super! Résolution du problème d\'alimentation.</string>
+    <string name="clean">Nettoyer</string>
+    <string name="cooling">Refroidissement</string>
+    <string name="try_it">Essayer</string>
+
+    <string name="done">Fait</string>
+    <string name="protect_now">Protéger maintenant</string>
+    <string name="save_now">Sauvegarder maintenant</string>
+    <string name="further_optimize_cpu">Pour optimiser davantage votre CPU</string>
+    <string name="cpu_heating_app">Cpu - Applications de chauffage</string>
+    <string name="cool_down">Refroidir</string>
+    <string name="scaning_cpu">Analyse du processeur...</string>
+    <string name="secretly_consuming_battery">Consommation discrète de votre batterie</string>
+    <string name="extend_battery_life">Étendre le fichier de la batterie</string>
+    <string name="battery_draining_app">Batterie - épuisement des applications</string>
+    <string name="analyzing_battery_usage">Analyse de l\'utilisation de la batterie</string>
+    <string name="hibernation">"Hibernation..... "</string>
+    <string name="find_and_grant">Trouvez %s et accordez %s</string>
+    <string name="deep_boost">Sauvegarde profonde</string>
+    <string name="content_permission_1">Veuillez accorder l\'accessibilité pour fermer les applications de démarrage automatique suivantes. L\'accélération pourrait être augmentée de 50%</string>
+    <string name="normal_boost">Sauvegarde normale</string>
+    <string name="grant_now">Accorder maintenant</string>
+    <string name="grant_app_permission">Accordez l\'autorisation d\'utilisation de l\'application pour un effet d\'analyse complet du téléphone</string>
+    <string name="permission_needed">Autorisation requise</string>
+
+
+    <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>
+    <string name="lockscreen_access_pattern_start">Dessiner un schéma de déverrouillage</string>
+    <string name="lockscreen_access_pattern_detected">Le motif a été enregistré</string>
+    <string name="lockscreen_access_pattern_cleared">Le motif a été supprimé</string>
+    <string name="lock_recording_intro_header">Définissez le schéma de déverrouillage de l\'application</string>
+    <string name="lock_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage</string>
+    <string name="lock_recording_incorrect_too_short">Vous devez connecter au moins 4 points.</string>
+    <string name="lock_pattern_entered_header">Modèle d\'enregistrement</string>
+    <string name="lock_need_to_confirm">Dessinez à nouveau le motif pour confirmer</string>
+    <string name="lock_need_to_unlock_wrong">Le motif ne correspond pas. Veuillez réessayer.</string>
+    <string name="password_gestrue_tips">Motif de dessin pour déverrouiller</string>
+    <string name="password_error_count">Le motif ne correspond pas. Veuillez réessayer.</string>
+    <string name="lock_pattern_confirmed_header">Modèle confirmé</string>
+    <string name="password_question_01">Quelle est votre chose la plus mémorable?</string>
+    <string name="password_question_02">"Comment s\'appelle ton animal de compagnie préféré ?"</string>
+    <string name="password_question_03">Qui est ta petite amie?</string>
+    <string name="password_question_04">Quel était votre rêve quand vous étiez enfant ?</string>
+    <string name="password_question_05">Si vous aviez le béguin pour quelqu\'un du même sexe, qui est-il/elle ?</string>
+    <string name="password_question_06">"Comment s\'appelle ton prof préféré au lycée ?"</string>
+    <string name="password_question_07">Où voudriez-vous visiter quand vous étiez enfant ?</string>
+    <string name="password_question_08">Si vous pouviez voyager dans le temps, quand aimeriez-vous y aller ?</string>
+    <string name="password_question_09">Qui est ton petit ami?</string>
+
+    <string name="security_settings">Les paramètres de sécurité</string>
+    <string name="sercurity_question">Question de sécurité:</string>
+    <string name="answer">Réponse:</string>
+    <string name="input_your_answer">Entrez votre réponse</string>
+    <string name="answer_blank">La réponse ne peut pas être vide</string>
+    <string name="password_answer_set_toast">La question et la réponse de sécurité ont été définies.</string>
+    <string name="forgot_gesture">Geste oublié</string>
+    <string name="answer_question_error">Erreur de question de réponse de sécurité</string>
+    <string name="not_setup_answer_question">Vous ne configurez pas la sécurité des questions de réponse</string>
+    <string-array name="lock_time_array">
+        <item>15 secondes</item>
+        <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>30 minutes</item>
+        <item>Immédiatement</item>
+    </string-array>
+
+    <string name="welcome_to_the_app_lock">Bienvenue dans le verrouillage de l\'application</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="search_application">Rechercher des applications</string>
+    <string name="lock_settings">Paramètres de verrouillage</string>
+    <string name="lock_immediately_after_locking_the_screen">Verrouiller l\'application verrouillant immédiatement le téléphone</string>
+    <string name="change_the_password">Changer le motif</string>
+    <string name="hide_pattern">Masquer le motif</string>
+    <string name="search_applications">Rechercher des applications…</string>
+    <string name="search_for">Rechercher…</string>
+    <string name="_1_minute">1 minute</string>
+    <string name="accessibility_service_description">Appuyez sur en haut à droite pour accéder au service d\'accessibilité.
+        \n
+        \nCela permettra à Advance Cleaner de :
+        \n
+    \n- Nettoyer en profondeur les fichiers indésirables cachés
+    \n- Mettre en veille prolongée les applications de vidange
+        \n
+    \nVous devrez accepter les avertissements du système Android lors de l\'activation du service d\'accessibilité. Clean Master ne les utilisera pas à d\'autres fins que celles énumérées ici.</string>
+    <string name="intruder_selfie">Intrus Selfie</string>
+    <string name="vibrate">Vibration</string>
+    <string name="app_runing_background">L\'application s\'exécute en arrière-plan</string>
+    <string name="app_background_task">Cette tâche d\'arrière-plan de l\'application</string>
+    <string name="create_password">Créer un mot de passe</string>
+    <string name="create_pattern_lock">Créer un verrouillage de modèle</string>
+    <string name="on_off">ALLUMÉ ÉTEINT</string>
+    <string name="skip_app_title">Les applications sélectionnées ne seront pas annulées pendant le nettoyage</string>
+    <string name="app_protect">Application protégée</string>
+    <string name="list_app_skip">Ignorer la liste</string>
+    <string name="ram">RAM</string>
+    <string name="ready_boost">Prêt à accélérer</string>
+    <string name="create_shortcut">Créer un raccourci</string>
+    <string name="notification_created_shortcut">Raccourci %s créé</string>
+    <string name="list_game">Liste des jeux</string>
+    <string name="select_game_to_boost">Sélectionnez le jeu pour accélérer</string>
+    <string name="app_not_exist">L\'application n\'existe pas</string>
+    <string name="game_add">Jeux ajoutés : %s</string>
+    <string name="not_distub">Ne pas déranger</string>
+    <string name="hide_notification_all">Masquer la notification de toutes les applications lorsque vous jouez à des jeux</string>
+    <string name="smart_charger_can_help">Le chargeur intelligent peut vous aider</string>
+    <string name="optimize_chargin_progress">Optimisez votre processus de charge</string>
+    <string name="remind_charger">Rappel en temps réel pour vous aider à éviter \nla surcharge</string>
+    <string name="turn_on">Allumer maintenant</string>
+    <string name="wifi">Wifi</string>
+    <string name="on">Sur</string>
+    <string name="brightness">Luminosité</string>
+    <string name="auto">Auto</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="off">À l\'arrêt</string>
+    <string name="synchronize">Synchronisé</string>
+    <string name="charging_finished">Chargement terminé</string>
+    <string name="auto_optimized">Optimisé automatiquement</string>
+    <string name="clean_up">Nettoyer</string>
+    <string name="pin">Broche</string>
+    <string name="data">Données</string>
+    <string name="power_full">La batterie est pleine</string>
+    <string name="battery_full_des">La charge est terminée. Veuillez débrancher la source.</string>
+    <string name="uninstall">Désinstaller</string>
+    <string name="system_app">Application système</string>
+    <string name="user_app">Application utilisateur</string>
+    <string name="other_app">Autre application</string>
+    <string name="clean_notifi">Notification propre</string>
+    <string name="social_app">Appli réseau social</string>
+    <string name="third_app">Application tierce</string>
+    <string name="spam_notification">Notifications indésirables :</string>
+    <string name="no_data">Pas de données</string>
+    <string name="just_now_time">juste maintenant</string>
+    <string name="minute_ago">Il y a %s minute</string>
+    <string name="Notificationbar_Spamnotification">Notifications de spam :</string>
+    <string name="Notificationbarcleanup_Guide1">Triez les notifications de spam et effacez-les en un seul clic</string>
+    <string name="Notificationbarcleanup_RightNow">Activer maintenant</string>
+    <string name="safety_scanning">Analyse de sécurité</string>
+    <string name="security">Sécurité</string>
+
+    <string name="per_read_phone_title">Données téléphoniques partagées</string>
+    <string name="per_access_location_title">Emplacement partagé</string>
+    <string name="per_read_sms_title">Peut lire vos SMS</string>
+    <string name="per_send_sms_title">Peut envoyer des SMS</string>
+    <string name="per_call_phone_title">Peut passer des appels</string>
+    <string name="per_outgoing_call_title">Peut contrôler les appels sortants</string>
+    <string name="per_record_audio_title">Peut enregistrer de l\'audio</string>
+    <string name="per_camera_title">Peut accéder à la caméra</string>
+
+    <string name="per_read_phone_des">Cette application collecte et envoie les détails de la carte SIM, y compris le carnet d\'adresses, le code PIN mobile et l\'historique des appels. Cela peut ajouter des frais au plan de données et constitue un risque ÉLEVÉ pour la confidentialité.</string>
+    <string name="per_access_location_des">Cette application peut accéder à sa position exacte et présente un risque pour votre vie privée.</string>
+    <string name="per_read_sms_des">Cette application peut lire vos SMS privés et représente un risque pour votre vie privée.</string>
+    <string name="per_send_sms_des">Cette application peut envoyer des SMS. Cela peut ajouter des frais au plan de données et constitue un risque ÉLEVÉ pour la confidentialité.</string>
+    <string name="per_call_phone_des">Cette application peut lancer un appel téléphonique sans passer par l\'interface utilisateur du numéroteur pour que l\'utilisateur confirme l\'appel. Cela peut ajouter des frais au plan de données et constitue un risque ÉLEVÉ pour la confidentialité.</string>
+    <string name="per_outgoing_call_des">Cette application peut voir le numéro composé lors d\'un appel sortant avec la possibilité de rediriger l\'appel vers un autre numéro ou d\'interrompre complètement l\'appel. Cela peut ajouter des frais au plan de données et constitue un risque ÉLEVÉ pour la confidentialité.</string>
+    <string name="per_record_audio_des">Cette application peut enregistrer de l\'audio et présente un risque pour votre vie privée.</string>
+    <string name="per_camera_des">Cette application peut accéder à l\'appareil photo et constitue un risque pour votre vie privée.</string>
+    <string name="in_danger">En danger</string>
+    <string name="resolve_all">Tout résoudre</string>
+    <string name="virus_app">application antivirus</string>
+    <string name="app_virus_content">L\'application peut causer plusieurs problèmes tels que des dommages aux fichiers et au système ou créer une porte dérobée</string>
+    <string name="check">Vérifier</string>
+    <string name="dangerous_app">application dangereuse</string>
+    <string name="app_dangerous_content">Découvrez les applications qui ont des autorisations peuvent endommager votre appareil</string>
+    <string name="skip">Sauter</string>
+    <string name="issues_found">%s problèmes trouvés</string>
+    <string name="skip_all">Tout passer</string>
+    <string name="some_app_use_permission">Certaines applications utilisent des autorisations dangereuses</string>
+    <string name="app_dangerous">%s Application dangereuse</string>
+    <string name="version">Version</string>
+    <string name="date">Rendez-vous</string>
+    <string name="size">Taille : %s</string>
+    <string name="request_permission">Demande d\'autorisation</string>
+    <string name="cancel">Annuler</string>
+    <string name="security_threats">Menaces de sécurité</string>
+    <string name="ignore">Ignorer</string>
+    <string name="skip_app_virus">"L\'application sélectionnée sera ignorée lors de l\'analyse antivirus"</string>
+    <string name="while_list">Pendant le balayage de la liste</string>
+    <string name="no_junk">Aucun fichier indésirable trouvé</string>
+    <string name="obsolete_apk">APK inutiles</string>
+    <string name="system_cache">Cache système</string>
+    <string name="downloader_files">Fichiers téléchargés</string>
+    <string name="large_files">Fichiers volumineux</string>
+    <string name="op_clean">Nettoie maintenant</string>
+    <string name="mb">Mo</string>
+    <string name="notification_toggle">Bascule de notification</string>
+    <string name="Calculating">Calculateur....</string>
+    <string name="notification_setting">Paramètres de notification</string>
+    <string name="junk_reminder">Fréquence de rappel indésirable</string>
+    <string name="every_3days">Tous les 3 jours</string>
+    <string name="phone_boost_reminder">Rappel de boost de téléphone</string>
+    <string name="remind_when_memory">Rappeler en cas d\'utilisation excessive de la mémoire</string>
+    <string name="cpu_cooler_reminder">Rappel du refroidisseur de processeur</string>
+    <string name="remind_me_when_cpu">Me rappeler en cas de surchauffe du processeur</string>
+    <string name="battery_saver">Économiseur de batterie</string>
+    <string name="remind_me_when_app_draing">Me rappeler lorsque les applications déchargent la batterie</string>
+    <string name="app_install">Installation de l\'application</string>
+    <string name="delete_the_apk">Supprimer le fichier APK après l\'installation de l\'application</string>
+    <string name="delete_the_residual">Supprimer les fichiers indésirables résiduels après la désinstallation de l\'application</string>
+    <string name="antivirus_settings">Paramètres antivirus</string>
+    <string name="real_time_protection">Protection en temps réel</string>
+    <string name="ignore_list">Ignorer la liste</string>
+    <string name="do_not_distub">Ne pas déranger</string>
+    <string name="general_settings">réglages généraux</string>
+    <string name="create_home_shortcut">Créer un raccourci sur l\'écran d\'accueil</string>
+    <string name="remove_app_unstall">fichiers supprimés, trouvés redondants, supprimés pour libérer plus d\'espace.</string>
+    <string name="deleting">Suppression, veuillez patienter ....</string>
+    <string name="scan_virus">Scanner les virus.....</string>
+    <string name="start_use">Commencez à utiliser</string>
+    <string name="ok">D\'ACCORD</string>
+    <string name="app_safe">Cette application est sécurisée</string>
+    <string name="app_virus_contain">Cette application contient des virus</string>
+    <string name="ram_going_full">Ram va être plein</string>
+    <string name="use_phone_boost">Utilisez Phone Boost pour libérer de l\'espace</string>
+    <string name="phone_is_hot">Le téléphone est chaud</string>
+    <string name="use_cpu_cleaner">Utilisez un nettoyant pour processeur pour refroidir</string>
+    <string name="use_save_battery">Utiliser l\'économie de batterie</string>
+    <string name="battery_low">Batterie faible</string>
+    <string name="note">Noter</string>
+    <string name="note_turn_off_notifi">Dans certains appareils. %s ne sera PAS stable si la bascule de notification est désactivée.</string>
+    <string name="turn_off">Éteindre</string>
+    <string name="junk_reminder_frequency">Fréquence de rappel indésirable</string>
+    <string name="every_day">Tous les jours</string>
+    <string name="every_7days">Tous les 7 jours</string>
+    <string name="never_reminder">Ne jamais rappeler</string>
+    <string name="start_at">Commencer à</string>
+    <string name="stop_at">Arrêté à</string>
+    <string name="detect_junk_file">Fichiers indésirables détectés</string>
+    <string name="use_junk_file">Utilisez le fichier de fonction funk pour nettoyer</string>
+    <string name="fix">Réparer</string>
+    <string name="optimize">Optimiser</string>
+    <string name="save">sauvegarder</string>
+    <string name="selcet_file_to_clean">Vous ne sélectionnez pas le fichier à nettoyer</string>
+
+    <string name="floatint_windown_per">autorisation de fenêtre flottante</string>
+    <string name="accessibility_permission">autorisation d\'accessibilité</string>
+    <string name="listener_notification_per">écouter l\'autorisation de notification</string>
+    <string name="write_setting_per">autorisation de réglage en écriture</string>
+    <string name="usage_access_permission">autorisation d\'accès</string>
+    <string name="external_storage_permission">Autoriser l\'accès à la mémoire de stockage externe de l\'appareil</string>
+    <string name="write_setting_permission">"Accorder l\'autorisation de modifier les paramètres de l\'appareil</string>
+    <string name="listen_notification_permission">Accorder l\'autorisation d\'écouter les notifications de l\'appareil</string>
+    <string name="overlay_permission">Accorder l\'autorisation d\'afficher sur d\'autres applications</string>
+    <string name="accessibility_setting_permission">Accorder l\'autorisation d\'utiliser le service d\'accessibilité</string>
+    <string name="splash_content">Léger, rapide et intelligent</string>
+    <string name="click_back">Veuillez cliquer à nouveau sur RETOUR pour quitter</string>
+
+    <string name="result_cooler">Excellent! Refroidi avec succès.</string>
+    <string name="boost_result">Fait! Boosté</string>
+    <string name="clean_result">Achevé! Nettoyé</string>
+    <string name="fast_charger_boosted_result">Charge rapide boostée</string>
+    <string name="antivirus_result">SÛR! Tous les risques sont résolus</string>
+    <string name="deep_clean_result">Achevé!</string>
+    <string name="notification_manager_result">Achevé!</string>
+    <string name="dectect_apk_install">Détecté 1 apk installé</string>
+    <string name="conduct_scan_virus">Effectuer une analyse antivirus</string>
+    <string name="dectect_apk_uninstall">Détecté 1 apk installé</string>
+    <string name="conduct_cleanup">Procéder à un nettoyage</string>
+    <string name="language">Langue</string>
+
+</resources>

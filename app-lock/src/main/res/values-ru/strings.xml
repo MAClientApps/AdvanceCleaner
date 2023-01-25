@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Блокировка приложения</string>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="nav_header_title">Android-студия</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Заголовок навигации</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="share_friends">Поделиться с друзьями</string>
+    <string name="feed_back">Обратная связь</string>
+    <string name="setting">Настройки</string>
+    <string name="themes">Темы</string>
+    <string name="kidzone">Детская зона</string>
+    <string name="proximily_detection">Обнаружение близости</string>
+    <string name="intruder_selfie">Злоумышленник Селфи</string>
+    <string name="lock_option">Параметры блокировки</string>
+    <string name="detect_when_remove_pocket">Обнаружение при удалении из кармана формы</string>
+    <string name="motion_detection">Обнаружение движения</string>
+    <string name="detect_when_device_move">Обнаружение перемещения устройств</string>
+    <string name="charger_detection">Обнаружение зарядного устройства</string>
+    <string name="detect_when_charger_disconnect">Обнаружение, когда зарядное устройство отключено</string>
+    <string name="child_restricted_area">Зона ограниченного доступа детей</string>
+    <string name="activate">Активировать</string>
+    <string name="enable">включить</string>
+    <string name="social_app">Приложение социальной сети</string>
+    <string name="third_app">Стороннее приложение</string>
+    <string name="sound">Звук</string>
+    <string name="adjust_sound">Настроить звук</string>
+    <string name="alarm_tone">Сигнал будильника</string>
+    <string name="customize_alarm_tone">Настроить сигнал будильника</string>
+    <string name="timer">Таймер</string>
+    <string name="timer_according">Установите таймер в соответствии с необходимостью</string>
+    <string name="change_pin_code">Измените свой PIN-код</string>
+    <string name="sercurity_question">Вопрос безопасности</string>
+    <string name="full_charger_alarm">полная сигнализация зарядного устройства</string>
+    <string name="notifi_charger_connected">Уведомлять, когда зарядное устройство подключено</string>
+    <string name="vibrate_alarm">Вибрация устройства во время тревоги</string>
+    <string name="flash_during_alarm">Включить вспышку во время тревоги</string>
+    <string name="reset_password">Сброс пароля</string>
+    <string name="pin_code_lock">Блокировка пин-кода</string>
+    <string name="switch_to_pin">Переключиться на PIN-код</string>
+    <string name="switch_to_patern">Переключиться на ШАБЛОН</string>
+    <string name="hide_pattern">Скрыть путь рисования узора</string>
+    <string name="more_app">Больше приложений</string>
+    <string name="rate_us">Оцените нас</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="share">Делиться</string>
+    <string name="set_timer">Установить таймер</string>
+    <string name="seconds_05">05 секунд</string>
+    <string name="seconds_10">10 секунд</string>
+    <string name="seconds_15">15 секунд</string>
+    <string name="seconds_20">20 секунд</string>
+    <string name="seconds_25">25 секунд</string>
+    <string name="seconds_30">30 секунд</string>
+    <string name="save">Сохранять</string>
+    <string name="less_than_50_letters">Менее 50 букв</string>
+    <string name="question">Вопрос</string>
+    <string name="input_your_question">Введите свой вопрос</string>
+    <string name="answer">Отвечать</string>
+    <string name="tone">Тон %d</string>
+    <string name="next">Следующий</string>
+    // Pattern code
+    <string name="enter_pattern_code">Введите пароль</string>
+    <string name="enter_new_pattern_code">Введите новый пароль</string>
+    <string name="message_confirm_pattern_code">Пожалуйста, подтвердите пароль</string>
+    <string name="error_message_confirm_pattern_code">Пароль не совпадает</string>
+    <string name="error_message_check_pattern_code">Ошибка пароля</string>
+    <string name="set_up_question">Вопрос</string>
+    <string name="message_fill_all_information">"Пожалуйста, заполните всю информацию"</string>
+    <string name="message_confirm_pattern_code_success">Подтвердить успех</string>
+    <string name="action_confirm">Подтверждать</string>
+    <string name="message_change_pattern_code_success">Изменить успех</string>
+    <string name="pin_incorrect">Неверный PIN-код: %s</string>
+    <string name="no_data">Нет данных об элементе для отображения</string>
+    <string name="incorrect_password_entries">Неправильный ввод пароля</string>
+    <string name="empty">Пустой</string>
+
+    <string name="once">Один раз</string>
+    <string name="times_3">3 раза</string>
+    <string name="times_5">5 раз</string>
+    // Pin code
+    <string name="enter_pin_code">Введите пароль</string>
+    <string name="enter_new_pin_code">Введите новый пароль</string>
+    <string name="message_confirm_pin_code">Пожалуйста, подтвердите пароль</string>
+    <string name="error_message_confirm_pin_code">Пароль не совпадает</string>
+    <string name="error_message_check_pin_code">Ошибка пароля</string>
+    <string name="message_confirm_pin_code_success">Подтвердить успех</string>
+    <string name="message_anser_empty">Ансер не должен пустовать</string>
+    <string name="message_error_question_anser">Вопрос или ответ неверны</string>
+    <string name="message_change_question_anser_success">Изменить вопрос успешно</string>
+    <string name="message_enter_new_question_anser">Введите новый вопрос и ответ на изменение</string>
+
+    <string name="app_running">%s работает</string>
+    <string name="activate_alarm">Тревога активирована</string>
+    <string name="message_proximity_actived">Активировано обнаружение близости</string>
+    <string name="message_motion_actived">Активировано обнаружение движения</string>
+    <string name="message_charger_actived">Зарядное устройство обнаружения активировано</string>
+
+    //
+    <string name="grant_now">Предоставить сейчас</string>
+    <string name="permission_needed">Требуется разрешение</string>
+    <string name="grant_app_permission">Предоставьте разрешение на использование приложения для комплексного эффекта сканирования телефона</string>
+    <string name="write_setting_per">разрешение на запись</string>
+    <string name="usage_access_permission">использование Разрешение на доступ</string>
+    <string name="external_storage_permission">Предоставить доступ к внешней памяти устройства</string>
+    <string name="camera_permission">Предоставить доступ к камере на устройстве</string>
+    <string name="write_setting_permission">"Предоставить разрешение на изменение настроек устройства</string>
+    <string name="listen_notification_permission">Предоставьте разрешение на прослушивание уведомлений устройства</string>
+    <string name="overlay_permission">Предоставить разрешение на отображение в других приложениях</string>
+    <string name="accessibility_setting_permission">Предоставление разрешения на использование службы специальных возможностей</string>
+    <string name="find_and_grant">Найти %s и предоставить %s</string>
+    <string name="floatint_windown_per">разрешение плавающего окна</string>
+    <string name="accessibility_permission">разрешение на доступ</string>
+    <string name="listener_notification_per">разрешение на прослушивание уведомлений</string>
+
+    <string name="accessibility_service_description">Нажмите в правом верхнем углу для доступа к службе специальных возможностей.
+        \n
+        \nЭто позволит Applock: работать более стабильно
+        \n
+    \nВам нужно будет принять системные предупреждения Android при включении службы специальных возможностей. Applock не будет использовать их ни для каких других целей, кроме перечисленных здесь.</string>
+    <string name="ok">ХОРОШО</string>
+    <string name="content_set_up_password">Пожалуйста, установите пароль для первого использования</string>
+    <string name="turn_on_charger">Перед включением будильника подключите зарядное устройство.</string>
+    <string name="forgot_password">Забыл пароль</string>
+    <string name="message_plug_in_before_using">Пожалуйста, подключите зарядное устройство перед использованием</string>
+    <string name="finger_unlock">Разблокировка отпечатков пальцев</string>
+    <string name="menu_home">LockApp</string>
+    <string name="menu_theme">Тема</string>
+    <string name="menu_app_mask">Маска приложения</string>
+    <string name="menu_security">Безопасность</string>
+    <string name="menu_setting">Параметр</string>
+    <string name="menu_ivy">Семья ИВИ</string>
+    <string name="save_ok">Сохранено</string>
+    <string name="limit_lock_time">Ограниченное время блокировки</string>
+    <string name="collection">Коллекция</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="switch_to_password">Сменить пароль</string>
+    <string name="advanced_detection">"Расширенная защита"</string>
+    <string name="rate">Оценивать</string>
+    <string name="limited_lock_time">Ограниченное время блокировки</string>
+    <string name="lock_new_app">Новая блокировка приложения</string>
+    <string name="alway_lock">Всегда заблокирован</string>
+    <string name="five_minutes">5 минут</string>
+    <string name="phone_screen_off">Пока экран телефона не погаснет</string>
+
+    <string name="stop_applock">Будет ли ваше приложение незащищенным, если вы отключите блокировку приложения?</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="apply">Подать заявление</string>
+    <string name="map">карта</string>
+    <string name="evaluate">Оценивать</string>
+    <string name="achieve">Достижения</string>
+    <string name="health">Мониторинг здоровья</string>
+    <string name="app_mask">Маска приложения</string>
+
+    <string name="changed_icon">Изменена иконка.</string>
+    <string name="changed_icon_message">Замена значка приложения «Калькулятор» может занять несколько секунд в зависимости от программы запуска телефона. Если новый значок не появится в течение нескольких секунд, перезагрузите устройство.</string>
+    <string name="advanced_protection">Расширенная защита</string>
+    <string name="header_advanced">Для идеальной защиты мы рекомендуем разрешить все права.</string>
+    <string name="used_camera">Используйте камеру</string>
+    <string name="take_photos_intruders">Сфотографируйте злоумышленников</string>
+    <string name="stable_operation">Стабильная работа</string>
+    <string name="keep_applock_smoothly">Обеспечьте бесперебойную работу Applock</string>
+    <string name="energy_saving">Сохранение энергии</string>
+    <string name="saving_extending_pin_life">Экономия на продлении срока службы PIN-кода</string>
+    <string name="popup">Выскакивать</string>
+    <string name="keep_applock_background">Держите блокировку приложений в фоновом режиме</string>
+    <string name="change_language">Изменить язык</string>
+    <string name="action_search">Поиск</string>
+    <string name="app_lock">Блокировка приложения</string>
+
+</resources>

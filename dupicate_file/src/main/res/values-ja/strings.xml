@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">重複ファイルリムーバー</string>
+    <string name="rating">レート</string>
+    <string name="share">友達にシェア</string>
+    <string name="policy">プライバシーポリシー</string>
+
+    <string name="more_app">より多くのアプリ</string>
+    <string name="feedback">フィードバック</string>
+    <string name="scan">スキャン</string>
+
+    <string name="setting">設定</string>
+    <string name="scan_wait">ファイルをスキャンしています。しばらくお待ちください...</string>
+    <string name="deleted_number_format">削除された ... %d 個のファイル</string>
+    <string name="scan_all_file">他のすべてのファイルをスキャン</string>
+    <string name="scan_audio_file">重複したオーディオをスキャン</string>
+    <string name="scan_doc_file">重複ドキュメントをスキャン</string>
+    <string name="scan_image_file">重複画像のスキャン</string>
+    <string name="scan_video_file">重複したビデオをスキャン</string>
+    <string name="analyzing">分析しています...</string>
+
+    <string name="sd_content_1">以下の手順に従って、選択したファイルを削除する権限を付与してください。</string>
+    <string name="sd_content_2">SD カードが表示されない場合は、これを試してください。</string>
+    <string name="sd_title">外部ストレージへのアクセスを確認する</string>
+    <string name="no_file_found">重複ファイルが見つかりません</string>
+    <string name="delete_content">ファイルを削除しますか?</string>
+    <string name="delete_title">削除の確認</string>
+    <string name="file_removed">ファイルが削除されました</string>
+    <string name="grant_permission">許可を与える</string>
+    <string name="delete_now">今すぐ削除</string>
+    <string name="deep_clean">ディープクリーン</string>
+</resources>

@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">앱 잠금</string>
+    <string name="navigation_drawer_open">탐색 창 열기</string>
+    <string name="navigation_drawer_close">탐색 창 닫기</string>
+    <string name="nav_header_title">안드로이드 스튜디오</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">탐색 헤더</string>
+    <string name="action_settings">설정</string>
+
+    <string name="share_friends">친구와 공유</string>
+    <string name="feed_back">피드백</string>
+    <string name="setting">설정</string>
+    <string name="themes">테마</string>
+    <string name="kidzone">키즈존</string>
+    <string name="proximily_detection">근접 감지</string>
+    <string name="intruder_selfie">침입자 셀카</string>
+    <string name="lock_option">잠금 옵션</string>
+    <string name="detect_when_remove_pocket">폼 포켓 제거 시 감지</string>
+    <string name="motion_detection">움직임 감지</string>
+    <string name="detect_when_device_move">기기 이동 시 감지</string>
+    <string name="charger_detection">충전기 감지</string>
+    <string name="detect_when_charger_disconnect">충전기가 분리되었을 때 감지</string>
+    <string name="child_restricted_area">어린이 제한 구역</string>
+    <string name="activate">활성화</string>
+    <string name="enable">할 수 있게 하다</string>
+    <string name="social_app">소셜 네트워크 애플리케이션</string>
+    <string name="third_app">타사 애플리케이션</string>
+    <string name="sound">소리</string>
+    <string name="adjust_sound">소리 조정</string>
+    <string name="alarm_tone">알람 톤</string>
+    <string name="customize_alarm_tone">알람 톤 사용자 정의</string>
+    <string name="timer">시간제 노동자</string>
+    <string name="timer_according">필요에 따라 타이머 설정</string>
+    <string name="change_pin_code">PIN 코드 변경</string>
+    <string name="sercurity_question">보안 질문</string>
+    <string name="full_charger_alarm">가득 차있는 충전기 경보</string>
+    <string name="notifi_charger_connected">충전기 연결 시 알림</string>
+    <string name="vibrate_alarm">알람 중 진동 장치</string>
+    <string name="flash_during_alarm">알람 중 플래시 라이트 켜기</string>
+    <string name="reset_password">암호를 재설정</string>
+    <string name="pin_code_lock">핀 코드 잠금</string>
+    <string name="switch_to_pin">PIN으로 전환</string>
+    <string name="switch_to_patern">패턴으로 전환</string>
+    <string name="hide_pattern">패턴 그리기 경로 숨기기</string>
+    <string name="more_app">더 많은 애플 리케이션</string>
+    <string name="rate_us">평가</string>
+    <string name="privacy_policy">개인 정보 정책</string>
+    <string name="share">공유하다</string>
+    <string name="set_timer">타이머 설정</string>
+    <string name="seconds_05">05초</string>
+    <string name="seconds_10">10 초</string>
+    <string name="seconds_15">15초</string>
+    <string name="seconds_20">20초</string>
+    <string name="seconds_25">25초</string>
+    <string name="seconds_30">30 초</string>
+    <string name="save">구하다</string>
+    <string name="less_than_50_letters">50자 미만</string>
+    <string name="question">의문</string>
+    <string name="input_your_question">질문을 입력하세요</string>
+    <string name="answer">대답</string>
+    <string name="tone">톤 %d</string>
+    <string name="next">다음</string>
+    // Pattern code
+    <string name="enter_pattern_code">암호를 입력</string>
+    <string name="enter_new_pattern_code">새 비밀번호를 입력하세요</string>
+    <string name="message_confirm_pattern_code">비밀번호를 확인해주세요</string>
+    <string name="error_message_confirm_pattern_code">비밀번호가 일치하지 않습니다</string>
+    <string name="error_message_check_pattern_code">비밀번호 오류</string>
+    <string name="set_up_question">의문</string>
+    <string name="message_fill_all_information">"모든 정보를 입력해주세요"</string>
+    <string name="message_confirm_pattern_code_success">성공 확인</string>
+    <string name="action_confirm">확인하다</string>
+    <string name="message_change_pattern_code_success">변경 성공</string>
+    <string name="pin_incorrect">잘못된 PIN: %s</string>
+    <string name="no_data">표시할 항목 데이터가 없습니다.</string>
+    <string name="incorrect_password_entries">잘못된 비밀번호 입력</string>
+    <string name="empty">비어 있는</string>
+
+    <string name="once">한 번</string>
+    <string name="times_3">3번</string>
+    <string name="times_5">5 회</string>
+    // Pin code
+    <string name="enter_pin_code">암호를 입력</string>
+    <string name="enter_new_pin_code">새 비밀번호를 입력하세요</string>
+    <string name="message_confirm_pin_code">비밀번호를 확인해주세요</string>
+    <string name="error_message_confirm_pin_code">비밀번호가 일치하지 않습니다</string>
+    <string name="error_message_check_pin_code">비밀번호 오류</string>
+    <string name="message_confirm_pin_code_success">성공 확인</string>
+    <string name="message_anser_empty">Anser는 비어 있으면 안 됩니다.</string>
+    <string name="message_error_question_anser">질문 또는 답변이 잘못되었습니다.</string>
+    <string name="message_change_question_anser_success">질문 변경 성공</string>
+    <string name="message_enter_new_question_anser">변경할 새 질문과 답변자를 입력하세요.</string>
+
+    <string name="app_running">%s이(가) 실행 중입니다.</string>
+    <string name="activate_alarm">경보 활성화됨</string>
+    <string name="message_proximity_actived">감지 근접 활성화됨</string>
+    <string name="message_motion_actived">감지 동작 활성화됨</string>
+    <string name="message_charger_actived">감지 충전기 활성화됨</string>
+
+    //
+    <string name="grant_now">지금 부여</string>
+    <string name="permission_needed">권한 필요</string>
+    <string name="grant_app_permission">포괄적인 폰 스캔 효과를 위한 앱 사용 권한 부여</string>
+    <string name="write_setting_per">쓰기 설정 권한</string>
+    <string name="usage_access_permission">사용 접근 권한</string>
+    <string name="external_storage_permission">장치의 외부 저장 메모리에 대한 액세스 권한 부여</string>
+    <string name="camera_permission">장치의 카메라에 대한 액세스 권한 부여</string>
+    <string name="write_setting_permission">"기기 설정 변경 권한 부여</string>
+    <string name="listen_notification_permission">기기 알림을 들을 수 있는 권한 부여</string>
+    <string name="overlay_permission">다른 애플리케이션에 표시할 수 있는 권한 부여</string>
+    <string name="accessibility_setting_permission">접근성 서비스 사용 권한 부여</string>
+    <string name="find_and_grant">%s을(를) 찾아 %s에게 부여</string>
+    <string name="floatint_windown_per">부동 창 권한</string>
+    <string name="accessibility_permission">접근성 권한</string>
+    <string name="listener_notification_per">알림 듣기 권한</string>
+
+    <string name="accessibility_service_description">접근성 서비스를 사용하려면 오른쪽 상단을 누릅니다.
+        \N
+        \n이렇게 하면 Applock이 다음을 수행할 수 있습니다. 작업이 더 안정적입니다.
+        \N
+    \n접근성 서비스를 활성화할 때 Android 시스템 경고를 수락해야 합니다. Applock은 여기에 나열된 것 이외의 다른 목적으로 이를 사용하지 않습니다.</string>
+    <string name="ok">확인</string>
+    <string name="content_set_up_password">처음 사용시 비밀번호를 설정해주세요</string>
+    <string name="turn_on_charger">알람을 켜기 전에 충전기를 연결하십시오.</string>
+    <string name="forgot_password">비밀번호를 잊으 셨나요</string>
+    <string name="message_plug_in_before_using">사용하기 전에 충전기를 연결하십시오</string>
+    <string name="finger_unlock">지문 잠금 해제</string>
+    <string name="menu_home">잠금 앱</string>
+    <string name="menu_theme">주제</string>
+    <string name="menu_app_mask">앱 마스크</string>
+    <string name="menu_security">보안</string>
+    <string name="menu_setting">환경</string>
+    <string name="menu_ivy">아이비 패밀리</string>
+    <string name="save_ok">저장됨</string>
+    <string name="limit_lock_time">제한된 잠금 시간</string>
+    <string name="collection">수집</string>
+    <string name="change_password">비밀번호 변경</string>
+    <string name="switch_to_password">비밀번호 전환</string>
+    <string name="advanced_detection">"고급 보호"</string>
+    <string name="rate">비율</string>
+    <string name="limited_lock_time">제한된 잠금 시간</string>
+    <string name="lock_new_app">새로운 앱 잠금</string>
+    <string name="alway_lock">항상 잠김</string>
+    <string name="five_minutes">5 분</string>
+    <string name="phone_screen_off">전화기 화면이 꺼질 때까지</string>
+
+    <string name="stop_applock">applock을 중지하면 앱이 보호되지 않습니까?</string>
+    <string name="cancel">취소</string>
+
+    <string name="apply">적용하다</string>
+    <string name="map">지도</string>
+    <string name="evaluate">평가하다</string>
+    <string name="achieve">업적</string>
+    <string name="health">건강 모니터링</string>
+    <string name="app_mask">앱 마스크</string>
+
+    <string name="changed_icon">아이콘이 변경되었습니다.</string>
+    <string name="changed_icon_message">계산기 앱 아이콘을 교체하는 데 휴대전화의 런처에 따라 몇 초 정도 걸릴 수 있습니다. 몇 초 안에 새 아이콘이 나타나지 않으면 기기를 다시 시작하세요.</string>
+    <string name="advanced_protection">고급 보호</string>
+    <string name="header_advanced">완벽한 보호를 위해 모든 권한을 허용하는 것이 좋습니다.</string>
+    <string name="used_camera">카메라 사용</string>
+    <string name="take_photos_intruders">침입자의 사진을 찍습니다</string>
+    <string name="stable_operation">안정적인 작동</string>
+    <string name="keep_applock_smoothly">Applock이 원활하게 실행되도록 유지</string>
+    <string name="energy_saving">에너지 절약</string>
+    <string name="saving_extending_pin_life">PIN 수명 연장에 대한 절약</string>
+    <string name="popup">팝업</string>
+    <string name="keep_applock_background">Applock을 백그라운드에서 계속 실행</string>
+    <string name="change_language">언어 변경</string>
+    <string name="action_search">검색</string>
+    <string name="app_lock">앱 잠금</string>
+
+</resources>

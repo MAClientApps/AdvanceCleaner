@@ -1,0 +1,19 @@
+<resources>
+    <string name="confirm_exit">Gerçekten çıkmak istiyor musun?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Numara</string>
+
+    <string name="rate_msg">Ekibimiz size en iyi ücretsiz uygulamayı sunmak için çok çalışıyor. 5 yıldızlı incelemeniz tüm paradan daha değerli. Lütfen beni teşvik etmek için Google Play\'de güzel bir inceleme yazın.</string>
+    <string name="remind_later">Daha sonra hatırlat</string>
+    <string name="good_5_stars">iyi, 5 yıldız</string>
+    <string name="not_good">İyi değil</string>
+    <string name="title_dialog_feed_back">Geri besleme gönder</string>
+    <string name="message_dialog_feed_back">E-posta yoluyla hata düzeltmesi isteyin ve yeni özellikleri uygulayın</string>
+    <string name="exit_app">çıkış</string>
+
+    <string name="confirm_close">Bu etkinliği kapatmak istediğinizden emin misiniz?</string>
+
+    <string name="rate_app">Uygulamayı Değerlendir</string>
+    <string name="install_app_ads">Şimdi kur</string>
+    <string name="thanks_for_review">Oran ve inceleme için teşekkürler</string>
+</resources>

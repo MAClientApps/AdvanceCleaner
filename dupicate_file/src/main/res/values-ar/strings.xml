@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">مكرر ملف المزيل</string>
+    <string name="rating">معدل</string>
+    <string name="share">شارك مع الأصدقاء</string>
+    <string name="policy">سياسة الخصوصية</string>
+
+    <string name="more_app">المزيد من التطبيقات</string>
+    <string name="feedback">استجابة</string>
+    <string name="scan">مسح</string>
+
+    <string name="setting">إعدادات</string>
+    <string name="scan_wait">الرجاء الانتظار أثناء فحص الملفات ...</string>
+    <string name="deleted_number_format">تم حذف ...٪ d ملفات</string>
+    <string name="scan_all_file">مسح كافة الملفات الأخرى</string>
+    <string name="scan_audio_file">مسح صوتيات مكررة</string>
+    <string name="scan_doc_file">مسح المستندات المكررة</string>
+    <string name="scan_image_file">مسح الصور المكررة</string>
+    <string name="scan_video_file">مسح مقاطع الفيديو المكررة</string>
+    <string name="analyzing">جاري التحليل ...</string>
+
+    <string name="sd_content_1">يرجى اتباع التعليمات أدناه لمنح الإذن لحذف الملفات المحددة.</string>
+    <string name="sd_content_2">إذا كنت لا ترى بطاقة SD ، فجرب هذا.</string>
+    <string name="sd_title">قم بتأكيد الوصول إلى وحدة التخزين الخارجية</string>
+    <string name="no_file_found">لم يتم العثور على ملفات مكررة</string>
+    <string name="delete_content">هل تريد حذف الملف؟</string>
+    <string name="delete_title">تأكيد الحذف</string>
+    <string name="file_removed">تمت إزالة الملفات</string>
+    <string name="grant_permission">يعطي الأذن</string>
+    <string name="delete_now">احذف الان</string>
+    <string name="deep_clean">نظيفة عميق</string>
+</resources>

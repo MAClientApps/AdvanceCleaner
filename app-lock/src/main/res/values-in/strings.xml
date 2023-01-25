@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Kunci aplikasi</string>
+    <string name="navigation_drawer_open">Buka laci navigasi</string>
+    <string name="navigation_drawer_close">Tutup laci navigasi</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">tajuk navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="share_friends">Bagikan dengan teman</string>
+    <string name="feed_back">Masukan</string>
+    <string name="setting">Pengaturan</string>
+    <string name="themes">Tema</string>
+    <string name="kidzone">Zona Anak</string>
+    <string name="proximily_detection">Deteksi Kedekatan</string>
+    <string name="intruder_selfie">Selfie penyusup</string>
+    <string name="lock_option">Opsi Kunci</string>
+    <string name="detect_when_remove_pocket">Deteksi saat mengeluarkan kantong formulir</string>
+    <string name="motion_detection">Deteksi gerakan</string>
+    <string name="detect_when_device_move">Deteksi saat perangkat dipindahkan</string>
+    <string name="charger_detection">Deteksi Pengisi Daya</string>
+    <string name="detect_when_charger_disconnect">Deteksi saat pengisi daya terputus</string>
+    <string name="child_restricted_area">Area terbatas anak</string>
+    <string name="activate">Mengaktifkan</string>
+    <string name="enable">Memungkinkan</string>
+    <string name="social_app">Aplikasi jejaring sosial</string>
+    <string name="third_app">Aplikasi pihak ketiga</string>
+    <string name="sound">Suara</string>
+    <string name="adjust_sound">Sesuaikan suara</string>
+    <string name="alarm_tone">Nada Alarm</string>
+    <string name="customize_alarm_tone">Sesuaikan Nada Alarm</string>
+    <string name="timer">pengatur waktu</string>
+    <string name="timer_according">Atur timer sesuai kebutuhan</string>
+    <string name="change_pin_code">Ubah kode PIN Anda</string>
+    <string name="sercurity_question">Pertanyaan Keamanan</string>
+    <string name="full_charger_alarm">Alarm Pengisi Daya penuh</string>
+    <string name="notifi_charger_connected">Beri tahu Saat Pengisi Daya Terhubung</string>
+    <string name="vibrate_alarm">Perangkat Getar Selama Alarm</string>
+    <string name="flash_during_alarm">Nyalakan Lampu Flash Selama Alarm</string>
+    <string name="reset_password">Setel ulang kata sandi</string>
+    <string name="pin_code_lock">Kunci Kode Pin</string>
+    <string name="switch_to_pin">Beralih ke PIN</string>
+    <string name="switch_to_patern">Beralih ke POLA</string>
+    <string name="hide_pattern">Sembunyikan jalur gambar Pola</string>
+    <string name="more_app">Aplikasi tambahan lainnya</string>
+    <string name="rate_us">Nilai Kami</string>
+    <string name="privacy_policy">Kebijakan pribadi</string>
+    <string name="share">Membagikan</string>
+    <string name="set_timer">Setel Timer</string>
+    <string name="seconds_05">05 Detik</string>
+    <string name="seconds_10">10 detik</string>
+    <string name="seconds_15">15 Detik</string>
+    <string name="seconds_20">20 Detik</string>
+    <string name="seconds_25">25 Detik</string>
+    <string name="seconds_30">30 detik</string>
+    <string name="save">Menyimpan</string>
+    <string name="less_than_50_letters">Kurang dari 50 huruf</string>
+    <string name="question">Pertanyaan</string>
+    <string name="input_your_question">Masukkan pertanyaan Anda</string>
+    <string name="answer">Menjawab</string>
+    <string name="tone">Nada %d</string>
+    <string name="next">Lanjut</string>
+    // Pattern code
+    <string name="enter_pattern_code">Masukkan kata kunci</string>
+    <string name="enter_new_pattern_code">Masukan kata sandi yang baru</string>
+    <string name="message_confirm_pattern_code">Mohon konfirmasi kata sandi</string>
+    <string name="error_message_confirm_pattern_code">Kata sandi tidak cocok</string>
+    <string name="error_message_check_pattern_code">Password error</string>
+    <string name="set_up_question">Pertanyaan</string>
+    <string name="message_fill_all_information">"Silakan isi semua informasi"</string>
+    <string name="message_confirm_pattern_code_success">Konfirmasi sukses</string>
+    <string name="action_confirm">Mengonfirmasi</string>
+    <string name="message_change_pattern_code_success">Ubah kesuksesan</string>
+    <string name="pin_incorrect">PIN salah: %s</string>
+    <string name="no_data">Tidak ada data item untuk ditampilkan</string>
+    <string name="incorrect_password_entries">Entri Kata Sandi Salah</string>
+    <string name="empty">Kosong</string>
+
+    <string name="once">Satu kali</string>
+    <string name="times_3">3 kali</string>
+    <string name="times_5">5 kali</string>
+    // Pin code
+    <string name="enter_pin_code">Masukkan kata kunci</string>
+    <string name="enter_new_pin_code">Masukan kata sandi yang baru</string>
+    <string name="message_confirm_pin_code">Mohon konfirmasi kata sandi</string>
+    <string name="error_message_confirm_pin_code">Kata sandi tidak cocok</string>
+    <string name="error_message_check_pin_code">Password error</string>
+    <string name="message_confirm_pin_code_success">Konfirmasi sukses</string>
+    <string name="message_anser_empty">Anser tidak boleh kosong</string>
+    <string name="message_error_question_anser">Pertanyaan atau jawaban salah</string>
+    <string name="message_change_question_anser_success">Ubah pertanyaan berhasil</string>
+    <string name="message_enter_new_question_anser">Masukkan pertanyaan baru dan jawaban untuk diubah</string>
+
+    <string name="app_running">%s sedang berjalan</string>
+    <string name="activate_alarm">Alarm Diaktifkan</string>
+    <string name="message_proximity_actived">Kedekatan deteksi diaktifkan</string>
+    <string name="message_motion_actived">Gerakan deteksi diaktifkan</string>
+    <string name="message_charger_actived">Pengisi daya deteksi diaktifkan</string>
+
+    //
+    <string name="grant_now">Berikan Sekarang</string>
+    <string name="permission_needed">Izin Diperlukan</string>
+    <string name="grant_app_permission">Berikan Izin Penggunaan Aplikasi untuk efek pemindaian telepon yang komprehensif</string>
+    <string name="write_setting_per">izin pengaturan tulis</string>
+    <string name="usage_access_permission">izin akses penggunaan</string>
+    <string name="external_storage_permission">Berikan akses ke memori penyimpanan eksternal di perangkat</string>
+    <string name="camera_permission">Berikan akses ke kamera di perangkat</string>
+    <string name="write_setting_permission">"Berikan izin untuk mengubah pengaturan perangkat</string>
+    <string name="listen_notification_permission">Berikan izin untuk mendengarkan notifikasi perangkat</string>
+    <string name="overlay_permission">Berikan izin untuk ditampilkan di aplikasi lain</string>
+    <string name="accessibility_setting_permission">Berikan izin untuk menggunakan layanan aksesibilitas</string>
+    <string name="find_and_grant">Temukan %s dan berikan %s</string>
+    <string name="floatint_windown_per">izin Jendela mengambang</string>
+    <string name="accessibility_permission">izin aksesibilitas</string>
+    <string name="listener_notification_per">dengarkan izin pemberitahuan</string>
+
+    <string name="accessibility_service_description">Ketuk di kanan atas gunakan untuk layanan Accessiblility.
+        \n
+        \nIni akan memungkinkan Applock untuk: Pengoperasian lebih stabil
+        \n
+    \nAnda harus menerima peringatan sistem Android saat mengaktifkan layanan Aksesibilitas. Applock tidak akan menggunakan ini untuk tujuan lain selain yang tercantum di sini.</string>
+    <string name="ok">Oke</string>
+    <string name="content_set_up_password">Silakan atur kata sandi untuk penggunaan pertama kali</string>
+    <string name="turn_on_charger">Harap pasang pengisi daya sebelum menyalakan alarm.</string>
+    <string name="forgot_password">Tidak ingat kata sandi</string>
+    <string name="message_plug_in_before_using">Silakan pasang pengisi daya sebelum menggunakan</string>
+    <string name="finger_unlock">Buka Kunci Sidik Jari</string>
+    <string name="menu_home">LockApp</string>
+    <string name="menu_theme">Tema</string>
+    <string name="menu_app_mask">Masker Aplikasi</string>
+    <string name="menu_security">Keamanan</string>
+    <string name="menu_setting">Pengaturan</string>
+    <string name="menu_ivy">Keluarga IVY</string>
+    <string name="save_ok">Diselamatkan</string>
+    <string name="limit_lock_time">Waktu penguncian terbatas</string>
+    <string name="collection">Koleksi</string>
+    <string name="change_password">Ganti kata sandi</string>
+    <string name="switch_to_password">Ganti kata sandi</string>
+    <string name="advanced_detection">"Perlindungan tingkat lanjut"</string>
+    <string name="rate">Kecepatan</string>
+    <string name="limited_lock_time">Waktu penguncian terbatas</string>
+    <string name="lock_new_app">Kunci aplikasi baru</string>
+    <string name="alway_lock">Selalu terkunci</string>
+    <string name="five_minutes">5 menit</string>
+    <string name="phone_screen_off">Sampai layar ponsel mati</string>
+
+    <string name="stop_applock">Apakah aplikasi Anda tidak akan terlindungi jika Anda menghentikan applock?</string>
+    <string name="cancel">Membatalkan</string>
+
+    <string name="apply">Berlaku</string>
+    <string name="map">Peta</string>
+    <string name="evaluate">Evaluasi</string>
+    <string name="achieve">Prestasi</string>
+    <string name="health">Pemantauan kesehatan</string>
+    <string name="app_mask">Masker Aplikasi</string>
+
+    <string name="changed_icon">Ikon Berubah.</string>
+    <string name="changed_icon_message">Mengganti ikon Aplikasi Kalkulator mungkin memerlukan waktu beberapa detik tergantung pada peluncur ponsel. Jika ikon baru tidak muncul dalam beberapa detik, mulai ulang perangkat Anda.</string>
+    <string name="advanced_protection">Perlindungan tingkat lanjut</string>
+    <string name="header_advanced">Untuk perlindungan sempurna, kami sarankan Anda mengizinkan semua hak.</string>
+    <string name="used_camera">Gunakan kamera</string>
+    <string name="take_photos_intruders">Ambil foto penyusup</string>
+    <string name="stable_operation">Operasi yang stabil</string>
+    <string name="keep_applock_smoothly">Jaga agar Applock berjalan dengan lancar</string>
+    <string name="energy_saving">Hemat energi</string>
+    <string name="saving_extending_pin_life">Menghemat untuk memperpanjang masa pakai PIN</string>
+    <string name="popup">Muncul</string>
+    <string name="keep_applock_background">Tetap jalankan AppLock di latar belakang</string>
+    <string name="change_language">Ganti BAHASA</string>
+    <string name="action_search">Mencari</string>
+    <string name="app_lock">Kunci aplikasi</string>
+</resources>

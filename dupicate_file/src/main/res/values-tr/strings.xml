@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Yinelenen Dosya Sökücü</string>
+    <string name="rating">Oran</string>
+    <string name="share">Arkadaşlarınızla paylaşın</string>
+    <string name="policy">GİZLİLİK POLİTİKASI</string>
+
+    <string name="more_app">Daha fazla uygulama</string>
+    <string name="feedback">Geri bildirim</string>
+    <string name="scan">Tarama</string>
+
+    <string name="setting">Ayarlar</string>
+    <string name="scan_wait">Dosyalar taranırken lütfen bekleyin...</string>
+    <string name="deleted_number_format">Silindi ... %d dosya</string>
+    <string name="scan_all_file">Diğer Tüm Dosyaları Tara</string>
+    <string name="scan_audio_file">Yinelenen Sesleri Tara</string>
+    <string name="scan_doc_file">Yinelenen Belgeleri Tara</string>
+    <string name="scan_image_file">Yinelenen Resimleri Tara</string>
+    <string name="scan_video_file">Yinelenen Videoları Tara</string>
+    <string name="analyzing">Analiz...</string>
+
+    <string name="sd_content_1">Seçilen dosyaları silme izni vermek için lütfen aşağıdaki talimatları izleyin.</string>
+    <string name="sd_content_2">SD kartı görmüyorsanız, bunu deneyin.</string>
+    <string name="sd_title">Harici Depolama Erişimini Onaylayın</string>
+    <string name="no_file_found">Yinelenen Dosya Bulunamadı</string>
+    <string name="delete_content">Dosyayı silmek istiyor musunuz?</string>
+    <string name="delete_title">Silmeyi Onayla</string>
+    <string name="file_removed">Dosyalar Kaldırıldı</string>
+    <string name="grant_permission">İzin Ver</string>
+    <string name="delete_now">Şimdi sil</string>
+    <string name="deep_clean">derin temizlik</string>
+</resources>

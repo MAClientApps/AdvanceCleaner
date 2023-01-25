@@ -1,0 +1,326 @@
+<resources>
+    <string name="app_name">منظف فائق</string>
+    <string name="title_details">خفيف وسريع وذكي</string>
+
+    <string name="title_home">مسكن</string>
+    <string name="title_tool">صندوق الأدوات</string>
+    <string name="title_persional">شخصي</string>
+
+    <string name="junk_files">ملفات غير مهمة</string>
+    <string name="cpu_cooler">مبرد وحدة المعالجة المركزية</string>
+    <string name="phone_booster">تعزيز الهاتف</string>
+    <string name="antivirus">مضاد للفيروسات</string>
+    <string name="power_saving">حفظ الطاقة</string>
+    <string name="data_manager">مدير البيانات</string>
+    <string name="app_lock">قفل التطبيق</string>
+    <string name="smart_charge">الشحن الذكي</string>
+    <string name="message_security">أمن الرسائل</string>
+    <string name="smart_cleanup">تنظيف ذكي</string>
+    <string name="deep_clean">نظيفة عميق</string>
+    <string name="app_uninstall">إلغاء تثبيت التطبيق</string>
+    <string name="game_booster">لعبة الداعم</string>
+    <string name="game">لعبة</string>
+    <string name="notification_manager">مدير الإعلام</string>
+    <string name="harassment_fillter">حشو التحرش</string>
+    <string name="speend_protector">حامي الإنفاق</string>
+    <string name="payment_safe">الدفع الآمن</string>
+    <string name="file_move">نقل الملف</string>
+    <string name="app_lock_des">حماية بيانات الخصوصية والممتلكات</string>
+    <string name="smart_charge_des">أذكرك بحالة الشحن لتجنب الشحن الزائد</string>
+    <string name="message_security_des">ستتم حماية الرسائل الخاصة وتخزينها هنا</string>
+    <string name="smart_cleanup_des">قم بتنظيف هاتفك تلقائيًا للحفاظ على تشغيل هاتفك بشكل أفضل دائمًا</string>
+    <string name="deep_clean_des">نظف الملفات بعمق أكبر لتحرير مساحة أكبر</string>
+    <string name="app_uninstall_des">قم بإلغاء تثبيت التطبيقات عديمة الفائدة بسرعة</string>
+    <string name="game_booster_des">توفر لك تجربة لعب أسرع وأفضل</string>
+    <string name="notification_manager_des">جعل شريط الإعلام الفوضوي جديدًا مرة أخرى</string>
+    <string name="harassment_fillter_des">الابتعاد عن المضايقات</string>
+    <string name="speend_protector_des">أسرع من 99٪ من المستخدمين</string>
+    <string name="payment_safe_des">حماية أمن الدفع الخاص بك على طول الطريق</string>
+    <string name="file_move_des">بنقرة واحدة لنقل الملفات إلى بطاقة SD. إخلاء مساحة أكبر</string>
+    <string name="junk_files_des">حذف البيانات غير الضرورية ، ملفات ذاكرة التخزين المؤقت ، التكرار ، الإعلانات</string>
+    <string name="cpu_cooler_des">خفض درجة حرارة الجهاز لتوفير شحن البطارية</string>
+    <string name="phone_booster_des">تحسين الأداء وتحرير الذاكرة</string>
+    <string name="antivirus_des">مسح وحماية هاتفك في الوقت الحقيقي</string>
+    <string name="power_saving_des">أوقف التطبيقات غير المستخدمة لحفظ البطارية</string>
+    <string name="data_manager_des">إلغاء التثبيت وإدارة التطبيقات</string>
+
+    <string name="memory_used">الذاكرة المستخدمة</string>
+    <string name="storage_used">التخزين المستخدم</string>
+    <string name="percent">٪</string>
+    <string name="clean_and_boost">التنظيف والتعزيز</string>
+    <string name="security_and_privacy">الأمن والخصوصية</string>
+    <string name="has_protected_your_phone">%s  قام بحماية هاتفك٪ %s  يوم (أيام)</string>
+    <string name="settings">إعدادات</string>
+    <string name="feedback">استجابة</string>
+    <string name="upgrade">رفع مستوى</string>
+    <string name="share">يشارك</string>
+    <string name="like_facebook">اعجب بنا على الفيسبوك</string>
+    <string name="scaning">جارٍ الفحص ……</string>
+    <string name="apps">تطبيقات</string>
+    <string name="memory_kill_found">تم العثور على ذاكرة قاتلة</string>
+    <string name="boost">تعزيز</string>
+    <string name="running_app">تشغيل التطبيقات</string>
+    <string name="empty_item_select">يجب عليك تحديد عنصر واحد على الأقل</string>
+    <string name="sm_edge_device_optimized">رائعة! حل مشكلة الطاقة.</string>
+    <string name="clean">ينظف</string>
+    <string name="cooling">تبريد</string>
+    <string name="try_it">محاولة</string>
+
+    <string name="done">فعله</string>
+    <string name="protect_now">احمِ الآن</string>
+    <string name="save_now">احفظ الان</string>
+    <string name="further_optimize_cpu">لزيادة تحسين وحدة المعالجة المركزية الخاصة بك</string>
+    <string name="cpu_heating_app">وحدة المعالجة المركزية - تطبيقات التدفئة</string>
+    <string name="cool_down">ترطيب</string>
+    <string name="scaning_cpu">جارٍ فحص وحدة المعالجة المركزية ...</string>
+    <string name="secretly_consuming_battery">تستهلك بطاريتك بسلاسة</string>
+    <string name="extend_battery_life">تمديد ملف البطارية</string>
+    <string name="battery_draining_app">البطارية - تطبيقات استنزاف</string>
+    <string name="analyzing_battery_usage">تحليل استخدام البطارية</string>
+    <string name="hibernation">"السبات الشتوي..... "</string>
+    <string name="find_and_grant">ابحث عن٪ s ومنح٪ s</string>
+    <string name="deep_boost">حفظ عميق</string>
+    <string name="content_permission_1">يرجى منح إمكانية الوصول لإغلاق السماح بتطبيقات البدء التلقائي. يمكن زيادة التسارع بنسبة 50٪</string>
+    <string name="normal_boost">حفظ عادي</string>
+    <string name="grant_now">امنح الآن</string>
+    <string name="grant_app_permission">امنح إذن استخدام التطبيق للحصول على تأثير مسح شامل للهاتف</string>
+    <string name="permission_needed">إذن مطلوب</string>
+
+
+    <string name="lockscreen_access_pattern_cell_added">الخلية المضافة</string>
+    <string name="lockscreen_access_pattern_start">رسم نمط فتح</string>
+    <string name="lockscreen_access_pattern_detected">تم حفظ النمط</string>
+    <string name="lockscreen_access_pattern_cleared">تم حذف النقش</string>
+    <string name="lock_recording_intro_header">قم بتعيين نمط إلغاء قفل التطبيق</string>
+    <string name="lock_settings_help_how_to_record">كيفية رسم نمط فتح</string>
+    <string name="lock_recording_incorrect_too_short">يجب عليك توصيل 4 نقاط على الأقل.</string>
+    <string name="lock_pattern_entered_header">نمط التسجيل</string>
+    <string name="lock_need_to_confirm">ارسم النمط مرة أخرى للتأكيد</string>
+    <string name="lock_need_to_unlock_wrong">النمط لا يتطابق. حاول مرة اخرى.</string>
+    <string name="password_gestrue_tips">ارسم أنموذجا لتلغي الاقفال</string>
+    <string name="password_error_count">النمط غير متطابق. حاول مرة اخرى.</string>
+    <string name="lock_pattern_confirmed_header">نمط مؤكد</string>
+    <string name="password_question_01">ما هو أكثر شيء لا تنسى؟</string>
+    <string name="password_question_02">"ما اسم حيوانك الأليف المفضل؟"</string>
+    <string name="password_question_03">من هي صديقتك؟</string>
+    <string name="password_question_04">ماذا كان حلمك عندما كنت طفلا؟</string>
+    <string name="password_question_05">إذا كنت معجبًا بشخص من نفس الجنس ، فمن هو /هي؟</string>
+    <string name="password_question_06">"ما اسم مدرسك المفضل في المدرسة الثانوية؟"</string>
+    <string name="password_question_07">ما المكان الذي تود زيارته عندما كنت طفلاً؟</string>
+    <string name="password_question_08">إذا كان بإمكانك العودة عبر الزمن ، فمتى تريد أن تذهب؟</string>
+    <string name="password_question_09">من هو حبيبك؟</string>
+
+    <string name="security_settings">اعدادات الامان</string>
+    <string name="sercurity_question">مسألة أمان:</string>
+    <string name="answer">إجابه:</string>
+    <string name="input_your_answer">أدخل إجابتك</string>
+    <string name="answer_blank">لا يمكن أن تكون الإجابة فارغة</string>
+    <string name="password_answer_set_toast">تم تعيين سؤال وجواب الأمان.</string>
+    <string name="forgot_gesture">نسيت لفتة</string>
+    <string name="answer_question_error">خطأ سؤال الإجابة الأمنية</string>
+    <string name="not_setup_answer_question">لم تقم بإعداد أمان سؤال الإجابة</string>
+    <string-array name="lock_time_array">
+        <item>15 ثانية</item>
+        <item>30 ثانية</item>
+        <item>1 دقيقة</item>
+        <item>3 دقائق</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>30 دقيقة</item>
+        <item>في الحال</item>
+    </string-array>
+
+    <string name="welcome_to_the_app_lock">مرحبًا بك في قفل التطبيق</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="search_application">تطبيقات البحث</string>
+    <string name="lock_settings">إعدادات القفل</string>
+    <string name="lock_immediately_after_locking_the_screen">التطبيق قفل قفل الهاتف على الفور</string>
+    <string name="change_the_password">تغيير النمط</string>
+    <string name="hide_pattern">إخفاء النمط</string>
+    <string name="search_applications">البحث في التطبيقات ...</string>
+    <string name="search_for">البحث عن…</string>
+    <string name="_1_minute">1 دقيقة</string>
+    <string name="accessibility_service_description">انقر فوق الاستخدام الأيمن العلوي لخدمة إمكانية الوصول.
+        \ن
+        \nسيسمح ذلك لـ Advance Cleaner بـ:
+        \ن
+    \n- تنظيف عميق للخردة المخفية
+    \n- إسبات استنزاف التطبيقات
+        \ن
+    \nسيتعين عليك قبول تحذيرات نظام Android عند تمكين خدمة إمكانية الوصول. لن يستخدم Clean Master هذه لأي غرض آخر غير المذكور هنا.</string>
+    <string name="intruder_selfie">دخيل صورة شخصية</string>
+    <string name="vibrate">اهتزاز</string>
+    <string name="app_runing_background">التطبيق يعمل في الخلفية</string>
+    <string name="app_background_task">مهمة خلفية التطبيق هذه</string>
+    <string name="create_password">أنشئ كلمة مرور</string>
+    <string name="create_pattern_lock">قم بإنشاء قفل نمط</string>
+    <string name="on_off">ON /OFF</string>
+    <string name="skip_app_title">لن يتم إلغاء التطبيقات المحددة أثناء التنظيف</string>
+    <string name="app_protect">التطبيق محمي</string>
+    <string name="list_app_skip">قائمة تجاهل</string>
+    <string name="ram">الرامات " الذاكرة العشوائية في الهواتف والحواسيب</string>
+    <string name="ready_boost">تسريع جاهز</string>
+    <string name="create_shortcut">انشاء اختصار</string>
+    <string name="notification_created_shortcut">تم إنشاء الاختصار٪ s</string>
+    <string name="list_game">قائمة الألعاب</string>
+    <string name="select_game_to_boost">حدد لعبة لتسريع</string>
+    <string name="app_not_exist">التطبيق غير موجود</string>
+    <string name="game_add">الألعاب المضافة:٪ s</string>
+    <string name="not_distub">لا تزعج</string>
+    <string name="hide_notification_all">إخفاء الإخطار من جميع التطبيقات عند ممارسة الألعاب</string>
+    <string name="smart_charger_can_help">الشاحن الذكي يمكن أن يساعدك</string>
+    <string name="optimize_chargin_progress">تحسين عملية الشحن الخاصة بك</string>
+    <string name="remind_charger">تذكير في الوقت الحقيقي لمساعدتك على تجنب \nالشحن الزائد</string>
+    <string name="turn_on">شغل الآن</string>
+    <string name="wifi">واي فاي</string>
+    <string name="on">على</string>
+    <string name="brightness">سطوع</string>
+    <string name="auto">آلي</string>
+    <string name="bluetooth">بلوتوث</string>
+    <string name="off">عن</string>
+    <string name="synchronize">متزامن</string>
+    <string name="charging_finished">انتهى الشحن</string>
+    <string name="auto_optimized">الأمثل تلقائيا</string>
+    <string name="clean_up">عملية تنظيف</string>
+    <string name="pin">دبوس</string>
+    <string name="data">بيانات</string>
+    <string name="power_full">البطارية ممتلئة</string>
+    <string name="battery_full_des">انتهى الشحن. يرجى فصل المصدر.</string>
+    <string name="uninstall">الغاء التثبيت</string>
+    <string name="system_app">تطبيق النظام</string>
+    <string name="user_app">تطبيق المستخدم</string>
+    <string name="other_app">تطبيق آخر</string>
+    <string name="clean_notifi">إخطار نظيف</string>
+    <string name="social_app">تطبيق الشبكة الاجتماعية</string>
+    <string name="third_app">تطبيق طرف ثالث</string>
+    <string name="spam_notification">الإخطار غير المرغوب فيه:</string>
+    <string name="no_data">لايوجد بيانات</string>
+    <string name="just_now_time">الآن</string>
+    <string name="minute_ago">قبل٪ s دقيقة</string>
+    <string name="Notificationbar_Spamnotification">إخطارات البريد العشوائي:</string>
+    <string name="Notificationbarcleanup_Guide1">قم بفرز إشعارات البريد العشوائي وامسحها بنقرة واحدة</string>
+    <string name="Notificationbarcleanup_RightNow">تمكين الآن</string>
+    <string name="safety_scanning">فحص السلامة</string>
+    <string name="security">حماية</string>
+
+    <string name="per_read_phone_title">بيانات الهاتف المشتركة</string>
+    <string name="per_access_location_title">تمت مشاركة الموقع</string>
+    <string name="per_read_sms_title">يمكن قراءة الرسائل القصيرة الخاصة بك</string>
+    <string name="per_send_sms_title">يمكن إرسال الرسائل القصيرة</string>
+    <string name="per_call_phone_title">يمكن إجراء مكالمات</string>
+    <string name="per_outgoing_call_title">يمكن التحكم في المكالمات الصادرة</string>
+    <string name="per_record_audio_title">يمكنه تسجيل الصوت</string>
+    <string name="per_camera_title">يمكن الوصول إلى الكاميرا</string>
+
+    <string name="per_read_phone_des">يجمع هذا التطبيق تفاصيل بطاقة SIM ويرسلها ، بما في ذلك دفتر العناوين ورقم التعريف الشخصي للجوال وسجل المكالمات. هذا يمكن أن يضيف رسومًا إلى خطة البيانات وهو يمثل مخاطرة عالية للخصوصية.</string>
+    <string name="per_access_location_des">يمكن لهذا التطبيق الوصول إلى موقعه الدقيق ويشكل خطرًا على خصوصيتك.</string>
+    <string name="per_read_sms_des">يمكن لهذا التطبيق قراءة رسائل SMS الخاصة بك ويشكل خطرًا على خصوصيتك.</string>
+    <string name="per_send_sms_des">يمكن لهذا التطبيق إرسال الرسائل القصيرة. هذا يمكن أن يضيف رسومًا إلى خطة البيانات وهو يمثل مخاطرة عالية للخصوصية.</string>
+    <string name="per_call_phone_des">يمكن لهذا التطبيق بدء مكالمة هاتفية دون المرور بواجهة مستخدم Dialer للمستخدم لتأكيد المكالمة. هذا يمكن أن يضيف رسومًا إلى خطة البيانات وهو يمثل مخاطرة عالية للخصوصية.</string>
+    <string name="per_outgoing_call_des">يمكن لهذا التطبيق رؤية الرقم الذي يتم الاتصال به أثناء مكالمة صادرة مع خيار إعادة توجيه المكالمة إلى رقم مختلف أو إلغاء المكالمة تمامًا. هذا يمكن أن يضيف رسومًا إلى خطة البيانات وهو يمثل مخاطرة عالية للخصوصية.</string>
+    <string name="per_record_audio_des">يمكن لهذا التطبيق تسجيل الصوت ويشكل خطرًا على خصوصيتك.</string>
+    <string name="per_camera_des">يمكن لهذا التطبيق الوصول إلى جهاز الكاميرا ويمثل خطرًا على خصوصيتك.</string>
+    <string name="in_danger">في خطر</string>
+    <string name="resolve_all">حل كل شيء</string>
+    <string name="virus_app">تطبيق الفيروسات</string>
+    <string name="app_virus_content">يمكن أن يتسبب التطبيق في مشكلات متعددة مثل تلف الملفات والنظام أو إنشاء باب خلفي</string>
+    <string name="check">يفحص</string>
+    <string name="dangerous_app">تطبيق خطير</string>
+    <string name="app_dangerous_content">تحقق من التطبيقات التي لديها أذونات قد تضر بجهازك</string>
+    <string name="skip">يتخطى</string>
+    <string name="issues_found">تم العثور على٪ s مشكلة</string>
+    <string name="skip_all">تخطي الكل</string>
+    <string name="some_app_use_permission">تستخدم بعض التطبيقات أذونات خطيرة</string>
+    <string name="app_dangerous">تطبيق٪ s خطير</string>
+    <string name="version">إصدار</string>
+    <string name="date">تواريخ</string>
+    <string name="size">الحجم:٪ s</string>
+    <string name="request_permission">طلب الإذن</string>
+    <string name="cancel">يلغي</string>
+    <string name="security_threats">التهديدات الأمنية</string>
+    <string name="ignore">يتجاهل</string>
+    <string name="skip_app_virus">"سيتم تجاهل التطبيق المحدد أثناء فحص الفيروسات"</string>
+    <string name="while_list">أثناء مسح القائمة</string>
+    <string name="no_junk">لم يتم العثور على ملف غير هام</string>
+    <string name="obsolete_apk">ملفات APK عديمة الفائدة</string>
+    <string name="system_cache">نظام ذاكرة التخزين المؤقت</string>
+    <string name="downloader_files">الملفات التي تم تنزيلها</string>
+    <string name="large_files">ملفات كبيرة</string>
+    <string name="op_clean">نظف الان</string>
+    <string name="mb">ميغا بايت</string>
+    <string name="notification_toggle">إعلام Toggle</string>
+    <string name="Calculating">جاري الحساب ....</string>
+    <string name="notification_setting">إعدادات الإشعار</string>
+    <string name="junk_reminder">تردد التذكير غير المهم</string>
+    <string name="every_3days">كل 3 أيام</string>
+    <string name="phone_boost_reminder">تذكير دفعة الهاتف</string>
+    <string name="remind_when_memory">تذكير عند الإفراط في استخدام الذاكرة</string>
+    <string name="cpu_cooler_reminder">تذكير برودة وحدة المعالجة المركزية</string>
+    <string name="remind_me_when_cpu">ذكرني عند ارتفاع درجة حرارة وحدة المعالجة المركزية</string>
+    <string name="battery_saver">حافظ البطارية</string>
+    <string name="remind_me_when_app_draing">تذكيري عندما تشرب التطبيقات البطارية</string>
+    <string name="app_install">تثبيت التطبيق</string>
+    <string name="delete_the_apk">احذف ملف APK بعد تثبيت التطبيق</string>
+    <string name="delete_the_residual">احذف الملفات غير المهمة المتبقية بعد إلغاء تثبيت التطبيق</string>
+    <string name="antivirus_settings">إعدادات مكافحة الفيروسات</string>
+    <string name="real_time_protection">الحماية في الوقت الحقيقي</string>
+    <string name="ignore_list">قائمة التجاهل</string>
+    <string name="do_not_distub">لا تزعج</string>
+    <string name="general_settings">الاعدادات العامة</string>
+    <string name="create_home_shortcut">إنشاء اختصار للشاشة الرئيسية</string>
+    <string name="remove_app_unstall">تمت إزالتها ، وجدت ملفات زائدة عن الحاجة ، محذوفة لتحرير مساحة أكبر.</string>
+    <string name="deleting">جاري الحذف ، يرجى الانتظار ....</string>
+    <string name="scan_virus">تفحص الفيروسات .....</string>
+    <string name="start_use">ابدأ باستخدام</string>
+    <string name="ok">نعم</string>
+    <string name="app_safe">هذا التطبيق آمن</string>
+    <string name="app_virus_contain">هذا التطبيق يحتوي على فيروس</string>
+    <string name="ram_going_full">ذاكرة الوصول العشوائي ستكون ممتلئة</string>
+    <string name="use_phone_boost">استخدم Phone Boost لإخلاء بعض المساحة</string>
+    <string name="phone_is_hot">الهاتف ساخن</string>
+    <string name="use_cpu_cleaner">استخدم منظف وحدة المعالجة المركزية للتبريد</string>
+    <string name="use_save_battery">استخدم توفير البطارية</string>
+    <string name="battery_low">البطارية ضعيفة</string>
+    <string name="note">ملحوظة</string>
+    <string name="note_turn_off_notifi">في بعض الأجهزة. لن يكون٪ s مستقرًا إذا تم إيقاف تشغيل تبديل الإعلام.</string>
+    <string name="turn_off">اطفئه</string>
+    <string name="junk_reminder_frequency">تردد التذكير غير المهم</string>
+    <string name="every_day">كل يوم</string>
+    <string name="every_7days">كل 7 أيام</string>
+    <string name="never_reminder">لا تذكر</string>
+    <string name="start_at">تبدأ في</string>
+    <string name="stop_at">توقف عند</string>
+    <string name="detect_junk_file">تم الكشف عن الملفات غير المرغوب فيها</string>
+    <string name="use_junk_file">استخدم ملف funk الخاص بالوظيفة للتنظيف</string>
+    <string name="fix">يصلح</string>
+    <string name="optimize">تحسين</string>
+    <string name="save">يحفظ</string>
+    <string name="selcet_file_to_clean">أنت لا تحدد الملف لتنظيفه</string>
+
+    <string name="floatint_windown_per">إذن النافذة العائمة</string>
+    <string name="accessibility_permission">إذن الوصول</string>
+    <string name="listener_notification_per">الاستماع إذن الإعلام</string>
+    <string name="write_setting_per">كتابة إذن الإعداد</string>
+    <string name="usage_access_permission">إذن الوصول إلى الاستخدام</string>
+    <string name="external_storage_permission">منح الوصول إلى ذاكرة التخزين الخارجية في الجهاز</string>
+    <string name="write_setting_permission">"منح الإذن لتغيير إعدادات الجهاز</string>
+    <string name="listen_notification_permission">امنح الإذن للاستماع إلى إشعارات الجهاز</string>
+    <string name="overlay_permission">منح الإذن للعرض على التطبيقات الأخرى</string>
+    <string name="accessibility_setting_permission">منح الإذن لاستخدام خدمة الوصول</string>
+    <string name="splash_content">خفيف وسريع وذكي</string>
+    <string name="click_back">الرجاء النقر فوق "رجوع" مرة أخرى للخروج</string>
+
+    <string name="result_cooler">ممتاز! تبرد بنجاح.</string>
+    <string name="boost_result">فعله! عزز</string>
+    <string name="clean_result">تم الانتهاء من! منظف</string>
+    <string name="fast_charger_boosted_result">تعزيز الشحن السريع</string>
+    <string name="antivirus_result">آمنة! تم حل جميع المخاطر</string>
+    <string name="deep_clean_result">تم الانتهاء من!</string>
+    <string name="notification_manager_result">تم الانتهاء من!</string>
+    <string name="dectect_apk_install">تم الكشف عن تثبيت APK واحد</string>
+    <string name="conduct_scan_virus">قم بإجراء فحص فيروسات</string>
+    <string name="dectect_apk_uninstall">تم الكشف عن تثبيت APK واحد</string>
+    <string name="conduct_cleanup">قم بالتنظيف</string>
+    <string name="language">لغة</string>
+
+</resources>

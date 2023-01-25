@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Xóa tệp trùng lặp</string>
+    <string name="rating">Tỷ lệ</string>
+    <string name="share">Chia sẻ với bạn bè</string>
+    <string name="policy">CHÍNH SÁCH BẢO MẬT</string>
+
+    <string name="more_app">Nhiều ứng dụng hơn</string>
+    <string name="feedback">Nhận xét</string>
+    <string name="scan">Quét</string>
+
+    <string name="setting">Cài đặt</string>
+    <string name="scan_wait">Vui lòng đợi trong khi quét tệp ...</string>
+    <string name="deleted_number_format">Đã xóa ... %d tệp</string>
+    <string name="scan_all_file">Quét tất cả các tệp khác</string>
+    <string name="scan_audio_file">Quét âm thanh trùng lặp</string>
+    <string name="scan_doc_file">Quét các tài liệu trùng lặp</string>
+    <string name="scan_image_file">Quét hình ảnh trùng lặp</string>
+    <string name="scan_video_file">Quét các video trùng lặp</string>
+    <string name="analyzing">Đang phân tích ...</string>
+
+    <string name="sd_content_1">Vui lòng làm theo hướng dẫn dưới đây để cấp quyền xóa các tệp đã chọn.</string>
+    <string name="sd_content_2">Nếu bạn không thấy thẻ SD, hãy thử cách này.</string>
+    <string name="sd_title">Xác nhận quyền truy cập bộ nhớ ngoài</string>
+    <string name="no_file_found">Không tìm thấy tệp trùng lặp</string>
+    <string name="delete_content">Bạn có muốn xóa tệp không?</string>
+    <string name="delete_title">Xác nhận Xóa</string>
+    <string name="file_removed">Tệp đã bị xóa</string>
+    <string name="grant_permission">Cấp phép</string>
+    <string name="delete_now">Xóa ngay bây giờ</string>
+    <string name="deep_clean">sạch sâu</string>
+</resources>

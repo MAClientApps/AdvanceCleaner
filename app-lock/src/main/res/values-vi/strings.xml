@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Khóa ứng dụng</string>
+    <string name="navigation_drawer_open">Mở ngăn điều hướng</string>
+    <string name="navigation_drawer_close">Đóng ngăn điều hướng</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Tiêu đề điều hướng</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="share_friends">Chia sẻ với bạn bè</string>
+    <string name="feed_back">Nhận xét</string>
+    <string name="setting">Cài đặt</string>
+    <string name="themes">Chủ đề</string>
+    <string name="kidzone">Khu dành cho trẻ em</string>
+    <string name="proximily_detection">Phát hiện vùng lân cận</string>
+    <string name="intruder_selfie">Ảnh tự chụp của kẻ xâm nhập</string>
+    <string name="lock_option">Tùy chọn khóa</string>
+    <string name="detect_when_remove_pocket">Phát hiện khi loại bỏ túi biểu mẫu</string>
+    <string name="motion_detection">Phát hiện chuyển động</string>
+    <string name="detect_when_device_move">Phát hiện khi thiết bị được di chuyển</string>
+    <string name="charger_detection">Phát hiện bộ sạc</string>
+    <string name="detect_when_charger_disconnect">Phát hiện khi bộ sạc bị ngắt kết nối</string>
+    <string name="child_restricted_area">Khu vực giới hạn trẻ em</string>
+    <string name="activate">Hoạt động</string>
+    <string name="enable">Cho phép</string>
+    <string name="social_app">Ứng dụng mạng xã hội</string>
+    <string name="third_app">Ứng dụng của bên thứ ba</string>
+    <string name="sound">Âm thanh</string>
+    <string name="adjust_sound">Điều chỉnh âm thanh</string>
+    <string name="alarm_tone">Chuông báo thức</string>
+    <string name="customize_alarm_tone">Tùy chỉnh âm báo thức</string>
+    <string name="timer">Hẹn giờ</string>
+    <string name="timer_according">Đặt hẹn giờ theo nhu cầu</string>
+    <string name="change_pin_code">Thay đổi mã PIN của bạn</string>
+    <string name="sercurity_question">Câu hỏi về sự an toàn</string>
+    <string name="full_charger_alarm">Báo động sạc đầy</string>
+    <string name="notifi_charger_connected">Thông báo khi bộ sạc được kết nối</string>
+    <string name="vibrate_alarm">Rung thiết bị trong khi báo thức</string>
+    <string name="flash_during_alarm">Bật đèn flash trong khi báo thức</string>
+    <string name="reset_password">Đặt lại mật khẩu</string>
+    <string name="pin_code_lock">Khóa mã pin</string>
+    <string name="switch_to_pin">Chuyển sang mã PIN</string>
+    <string name="switch_to_patern">Chuyển sang PATTERN</string>
+    <string name="hide_pattern">Ẩn đường vẽ mẫu</string>
+    <string name="more_app">Thêm nhiều ứng dụng</string>
+    <string name="rate_us">Đánh giá chúng tôi</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="share">Đăng lại</string>
+    <string name="set_timer">Đặt hẹn giờ</string>
+    <string name="seconds_05">05 giây</string>
+    <string name="seconds_10">10 giây</string>
+    <string name="seconds_15">15 giây</string>
+    <string name="seconds_20">20 giây</string>
+    <string name="seconds_25">25 giây</string>
+    <string name="seconds_30">30 giây</string>
+    <string name="save">Tiết kiệm</string>
+    <string name="less_than_50_letters">Dưới 50 chữ cái</string>
+    <string name="question">Câu hỏi</string>
+    <string name="input_your_question">Nhập câu hỏi của bạn</string>
+    <string name="answer">Câu trả lời</string>
+    <string name="tone">Giai điệu %d</string>
+    <string name="next">Tiếp theo</string>
+    // Pattern code
+    <string name="enter_pattern_code">Nhập mật khẩu</string>
+    <string name="enter_new_pattern_code">Nhập mật khẩu mới</string>
+    <string name="message_confirm_pattern_code">Vui lòng xác nhận mật khẩu</string>
+    <string name="error_message_confirm_pattern_code">Mật khẩu không khớp</string>
+    <string name="error_message_check_pattern_code">Lỗi mật khẩu</string>
+    <string name="set_up_question">Câu hỏi</string>
+    <string name="message_fill_all_information">"Vui lòng điền tất cả thông tin"</string>
+    <string name="message_confirm_pattern_code_success">Xác nhận thành công</string>
+    <string name="action_confirm">Xác nhận</string>
+    <string name="message_change_pattern_code_success">Thay đổi thành công</string>
+    <string name="pin_incorrect">Mã PIN không chính xác: %s</string>
+    <string name="no_data">Không có dữ liệu mục nào để hiển thị</string>
+    <string name="incorrect_password_entries">Nhập mật khẩu không chính xác</string>
+    <string name="empty">Trống rỗng</string>
+
+    <string name="once">Một lần</string>
+    <string name="times_3">3 lần</string>
+    <string name="times_5">5 lần</string>
+    // Pin code
+    <string name="enter_pin_code">Nhập mật khẩu</string>
+    <string name="enter_new_pin_code">Nhập mật khẩu mới</string>
+    <string name="message_confirm_pin_code">Vui lòng xác nhận mật khẩu</string>
+    <string name="error_message_confirm_pin_code">Mật khẩu không khớp</string>
+    <string name="error_message_check_pin_code">Lỗi mật khẩu</string>
+    <string name="message_confirm_pin_code_success">Xác nhận thành công</string>
+    <string name="message_anser_empty">Anser không được để trống</string>
+    <string name="message_error_question_anser">Câu hỏi hoặc người trả lời sai</string>
+    <string name="message_change_question_anser_success">Thay đổi câu hỏi thành công</string>
+    <string name="message_enter_new_question_anser">Nhập câu hỏi mới và anser để thay đổi</string>
+
+    <string name="app_running">%s đang chạy</string>
+    <string name="activate_alarm">Báo động đã được kích hoạt</string>
+    <string name="message_proximity_actived">Đã kích hoạt tính năng phát hiện vùng lân cận</string>
+    <string name="message_motion_actived">Đã kích hoạt chuyển động phát hiện</string>
+    <string name="message_charger_actived">Đã kích hoạt bộ sạc phát hiện</string>
+
+    //
+    <string name="grant_now">Cấp ngay</string>
+    <string name="permission_needed">Quyền cần thiết</string>
+    <string name="grant_app_permission">Cấp quyền sử dụng ứng dụng để có hiệu ứng quét điện thoại toàn diện</string>
+    <string name="write_setting_per">viết quyền cài đặt</string>
+    <string name="usage_access_permission">quyền truy cập sử dụng</string>
+    <string name="external_storage_permission">Cấp quyền truy cập vào bộ nhớ lưu trữ bên ngoài trong thiết bị</string>
+    <string name="camera_permission">Cấp quyền truy cập vào máy ảnh trong thiết bị</string>
+    <string name="write_setting_permission">"Cấp quyền thay đổi cài đặt thiết bị</string>
+    <string name="listen_notification_permission">Cấp quyền nghe thông báo trên thiết bị</string>
+    <string name="overlay_permission">Cấp quyền hiển thị trên các ứng dụng khác</string>
+    <string name="accessibility_setting_permission">Cấp quyền sử dụng dịch vụ trợ năng</string>
+    <string name="find_and_grant">Tìm %s và cấp %s</string>
+    <string name="floatint_windown_per">quyền cửa sổ nổi</string>
+    <string name="accessibility_permission">quyền truy cập</string>
+    <string name="listener_notification_per">nghe thông báo cho phép</string>
+
+    <string name="accessibility_service_description">Nhấn vào trên cùng bên phải sử dụng dịch vụ Accessiblility.
+        \N
+        \nĐiều này sẽ cho phép Applock: Hoạt động ổn định hơn
+        \N
+    \nBạn sẽ phải chấp nhận các cảnh báo của hệ thống Android khi bật dịch vụ Trợ năng. Applock sẽ không sử dụng chúng cho bất kỳ mục đích nào khác ngoài mục đích được liệt kê ở đây.</string>
+    <string name="ok">ĐƯỢC RỒI</string>
+    <string name="content_set_up_password">Vui lòng thiết lập mật khẩu cho lần đầu tiên sử dụng</string>
+    <string name="turn_on_charger">Vui lòng cắm bộ sạc trước khi bật báo thức.</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="message_plug_in_before_using">Vui lòng cắm sạc trước khi sử dụng</string>
+    <string name="finger_unlock">Mở khóa bằng vân tay</string>
+    <string name="menu_home">LockApp</string>
+    <string name="menu_theme">Chủ đề</string>
+    <string name="menu_app_mask">Mặt nạ ứng dụng</string>
+    <string name="menu_security">Bảo vệ</string>
+    <string name="menu_setting">Cài đặt</string>
+    <string name="menu_ivy">Gia đình IVY</string>
+    <string name="save_ok">Đã lưu</string>
+    <string name="limit_lock_time">Thời gian khóa hạn chế</string>
+    <string name="collection">Bộ sưu tập</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="switch_to_password">Chuyển đổi mật khẩu</string>
+    <string name="advanced_detection">"Bảo vệ nâng cao"</string>
+    <string name="rate">Tỷ lệ</string>
+    <string name="limited_lock_time">Thời gian khóa hạn chế</string>
+    <string name="lock_new_app">Khóa ứng dụng mới</string>
+    <string name="alway_lock">Luôn bị khóa</string>
+    <string name="five_minutes">5 phút</string>
+    <string name="phone_screen_off">Cho đến khi màn hình điện thoại tắt</string>
+
+    <string name="stop_applock">Ứng dụng của bạn sẽ không được bảo vệ nếu bạn dừng ứng dụng?</string>
+    <string name="cancel">Hủy bỏ</string>
+
+    <string name="apply">Ứng dụng</string>
+    <string name="map">Bản đồ</string>
+    <string name="evaluate">Thúc giục</string>
+    <string name="achieve">Thành tựu</string>
+    <string name="health">Theo dõi sức khỏe</string>
+    <string name="app_mask">Mặt nạ ứng dụng</string>
+
+    <string name="changed_icon">Biểu tượng đã thay đổi.</string>
+    <string name="changed_icon_message">Việc thay thế biểu tượng Ứng dụng Máy tính có thể mất vài giây tùy thuộc vào trình khởi chạy của điện thoại. Nếu biểu tượng mới không xuất hiện trong vài giây, hãy khởi động lại thiết bị của bạn.</string>
+    <string name="advanced_protection">Bảo vệ nâng cao</string>
+    <string name="header_advanced">Để được bảo vệ hoàn hảo, chúng tôi khuyên bạn nên cho phép tất cả các quyền.</string>
+    <string name="used_camera">Sử dụng máy ảnh</string>
+    <string name="take_photos_intruders">Chụp ảnh những kẻ đột nhập</string>
+    <string name="stable_operation">Hoạt động ổn định</string>
+    <string name="keep_applock_smoothly">Giữ cho Applock chạy trơn tru</string>
+    <string name="energy_saving">Tiết kiệm năng lượng</string>
+    <string name="saving_extending_pin_life">Tiết kiệm khi kéo dài tuổi thọ mã PIN</string>
+    <string name="popup">Cửa sổ bật lên</string>
+    <string name="keep_applock_background">Giữ cho Applock chạy trong nền</string>
+    <string name="change_language">Thay đổi ngôn ngữ</string>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="app_lock">Khóa ứng dụng</string>
+
+</resources>

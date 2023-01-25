@@ -1,0 +1,100 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        applicationId "com.lakshita.suman.advancecleaner"
+        minSdkVersion 23
+        targetSdkVersion 33
+        versionCode 4
+        versionName "2.0.4"
+        vectorDrawables.useSupportLibrary = true
+
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility 1.8
+        targetCompatibility 1.8
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation files('libs/github.jar')
+    implementation 'androidx.multidex:multidex:2.0.1'
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    //noinspection GradleCompatible
+    implementation 'com.android.support:design:28.0.0'
+
+    /*https://github.com/JakeWharton/butterknife*/
+    implementation 'com.jakewharton:butterknife:10.0.0'
+    implementation project(path: ':app-lock')
+    implementation project(path: ':ads')
+    implementation 'com.google.android.material:material:1.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.1.0'
+
+    /*https://github.com/intuit/sdp*/
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+
+    /*https://github.com/bumptech/glide*/
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+
+    /*https://github.com/vinc3m1/RoundedImageView*/
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+
+    /*https://github.com/daimajia/AndroidViewAnimations*/
+    implementation 'com.daimajia.easing:library:2.0@aar'
+    implementation 'com.daimajia.androidanimations:library:2.4@aar'
+
+    /*https://github.com/airbnb/lottie-android*/
+    implementation 'com.airbnb.android:lottie:3.7.0'
+
+    /*https://github.com/google/gson*/
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    /*https://github.com/bumptech/glide*/
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+
+    /*https://github.com/LitePalFramework/LitePal*/
+    implementation 'org.litepal.android:core:1.4.1'
+
+    /*https://github.com/jpardogo/GoogleProgressBar*/
+    implementation 'com.jpardogo.googleprogressbar:library:1.2.0'
+
+    implementation project(':dupicate_file')
+    implementation 'androidx.work:work-runtime:2.7.0'
+    implementation 'com.akexorcist:localization:1.2.10'
+
+    implementation(group: 'com.mob', name: 'perelander', version: '1.1', ext: 'aar', classifier: 'release') { transitive true }
+    // Add the dependency for the Firebase SDK for Google Analytics
+    // When using the BoM, don't specify versions in Firebase dependencies
+
+
+    // Add the dependencies for any other desired Firebase products
+    // https://firebase.google.com/docs/android/setup#available-libraries
+
+    implementation platform('com.google.firebase:firebase-bom:31.2.0')
+    implementation 'com.google.firebase:firebase-analytics'
+}

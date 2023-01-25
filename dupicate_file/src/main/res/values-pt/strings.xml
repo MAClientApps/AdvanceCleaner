@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Removedor de arquivo duplicado</string>
+    <string name="rating">Taxa</string>
+    <string name="share">Compartilhar com amigos</string>
+    <string name="policy">POLÍTICA DE PRIVACIDADE</string>
+
+    <string name="more_app">Mais aplicativo</string>
+    <string name="feedback">Comentários</string>
+    <string name="scan">Digitalizar</string>
+
+    <string name="setting">Configurações</string>
+    <string name="scan_wait">Aguarde enquanto verifica os arquivos...</string>
+    <string name="deleted_number_format">Excluído ... %d arquivos</string>
+    <string name="scan_all_file">Verificar todos os outros arquivos</string>
+    <string name="scan_audio_file">Verificar áudios duplicados</string>
+    <string name="scan_doc_file">Verificar documentos duplicados</string>
+    <string name="scan_image_file">Verificar imagens duplicadas</string>
+    <string name="scan_video_file">Verificar vídeos duplicados</string>
+    <string name="analyzing">Analisando...</string>
+    <string name="sd_content_1">Siga as instruções abaixo para conceder permissão para excluir os arquivos selecionados.</string>
+    <string name="sd_content_2">Se você não vir o cartão SD , ​​tente isto .</string>
+    <string name="sd_title">Confirmar acesso ao armazenamento externo</string>
+    <string name="no_file_found">Nenhum arquivo duplicado encontrado</string>
+    <string name="delete_content">Deseja excluir o arquivo?</string>
+    <string name="delete_title">Confirmar exclusão</string>
+    <string name="file_removed">Arquivos removidos</string>
+    <string name="grant_permission">Conceder permissão</string>
+    <string name="delete_now">Excluir agora</string>
+    <string name="deep_clean">deep_clean</string>
+</resources>

@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">قفل التطبيق</string>
+    <string name="navigation_drawer_open">افتح درج التنقل</string>
+    <string name="navigation_drawer_close">أغلق درج التنقل</string>
+    <string name="nav_header_title">بيئة تطوير أندرويد</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">رأس التنقل</string>
+    <string name="action_settings">إعدادات</string>
+
+    <string name="share_friends">شارك مع الاصدقاء</string>
+    <string name="feed_back">استجابة</string>
+    <string name="setting">إعدادات</string>
+    <string name="themes">ثيمات</string>
+    <string name="kidzone">منطقة الأطفال</string>
+    <string name="proximily_detection">كشف القرب</string>
+    <string name="intruder_selfie">دخيل صورة شخصية</string>
+    <string name="lock_option">خيارات القفل</string>
+    <string name="detect_when_remove_pocket">كشف عند إزالة شكل الجيب</string>
+    <string name="motion_detection">كشف الحركة</string>
+    <string name="detect_when_device_move">كشف عندما يتم نقل الأجهزة</string>
+    <string name="charger_detection">كشف الشاحن</string>
+    <string name="detect_when_charger_disconnect">كشف عند فصل الشاحن</string>
+    <string name="child_restricted_area">منطقة محظورة للأطفال</string>
+    <string name="activate">تفعيل</string>
+    <string name="enable">يُمكَِن</string>
+    <string name="social_app">تطبيق الشبكة الاجتماعية</string>
+    <string name="third_app">تطبيق طرف ثالث</string>
+    <string name="sound">يبدو</string>
+    <string name="adjust_sound">ضبط الصوت</string>
+    <string name="alarm_tone">نغمة التنبيه</string>
+    <string name="customize_alarm_tone">تخصيص نغمة التنبيه</string>
+    <string name="timer">الموقت</string>
+    <string name="timer_according">اضبط عداد الوقت حسب الحاجة</string>
+    <string name="change_pin_code">قم بتغيير رمز PIN الخاص بك</string>
+    <string name="sercurity_question">سؤال Sercurity</string>
+    <string name="full_charger_alarm">إنذار شاحن كامل</string>
+    <string name="notifi_charger_connected">يخطر عند توصيل الشاحن</string>
+    <string name="vibrate_alarm">اهتزاز الجهاز أثناء الإنذار</string>
+    <string name="flash_during_alarm">قم بتشغيل ضوء الفلاش أثناء التنبيه</string>
+    <string name="reset_password">إعادة تعيين كلمة المرور</string>
+    <string name="pin_code_lock">قفل الرمز السري</string>
+    <string name="switch_to_pin">قم بالتبديل إلى PIN</string>
+    <string name="switch_to_patern">قم بالتبديل إلى PATTERN</string>
+    <string name="hide_pattern">إخفاء مسار رسم النقش</string>
+    <string name="more_app">تطبيقات أكثر</string>
+    <string name="rate_us">قيمنا</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="share">يشارك</string>
+    <string name="set_timer">توقيت مجموعة</string>
+    <string name="seconds_05">05 ثانية</string>
+    <string name="seconds_10">10 ثواني</string>
+    <string name="seconds_15">15 ثانية</string>
+    <string name="seconds_20">20 ثانية</string>
+    <string name="seconds_25">25 ثانية</string>
+    <string name="seconds_30">30 ثانية</string>
+    <string name="save">يحفظ</string>
+    <string name="less_than_50_letters">أقل من 50 حرفًا</string>
+    <string name="question">سؤال</string>
+    <string name="input_your_question">أدخل سؤالك</string>
+    <string name="answer">إجابه</string>
+    <string name="tone">نغمة٪ d</string>
+    <string name="next">التالي</string>
+    // Pattern code
+    <string name="enter_pattern_code">أدخل كلمة المرور</string>
+    <string name="enter_new_pattern_code">أدخل كلمة مرور جديدة</string>
+    <string name="message_confirm_pattern_code">الرجاء تأكيد كلمة المرور</string>
+    <string name="error_message_confirm_pattern_code">كلمة المرور لا تتطابق</string>
+    <string name="error_message_check_pattern_code">خطأ في كلمة المرور</string>
+    <string name="set_up_question">سؤال</string>
+    <string name="message_fill_all_information">"الرجاء ملء كافة المعلومات"</string>
+    <string name="message_confirm_pattern_code_success">أكد النجاح</string>
+    <string name="action_confirm">يتأكد</string>
+    <string name="message_change_pattern_code_success">تغيير النجاح</string>
+    <string name="pin_incorrect">PIN غير صحيح:٪ s</string>
+    <string name="no_data">لا توجد بيانات عنصر لعرضها</string>
+    <string name="incorrect_password_entries">إدخالات كلمة المرور غير صحيحة</string>
+    <string name="empty">فارغة</string>
+
+    <string name="once">ذات مرة</string>
+    <string name="times_3">ثلاث مرات</string>
+    <string name="times_5">5 مرات</string>
+    // Pin code
+    <string name="enter_pin_code">أدخل كلمة المرور</string>
+    <string name="enter_new_pin_code">أدخل كلمة مرور جديدة</string>
+    <string name="message_confirm_pin_code">الرجاء تأكيد كلمة المرور</string>
+    <string name="error_message_confirm_pin_code">كلمة المرور لا تتطابق</string>
+    <string name="error_message_check_pin_code">خطأ في كلمة المرور</string>
+    <string name="message_confirm_pin_code_success">أكد النجاح</string>
+    <string name="message_anser_empty">يجب ألا يفرغ Anser</string>
+    <string name="message_error_question_anser">السؤال أو الجواب مخطئون</string>
+    <string name="message_change_question_anser_success">تغيير نجاح السؤال</string>
+    <string name="message_enter_new_question_anser">أدخل سؤال جديد وأجب للتغيير</string>
+
+    <string name="app_running">٪ s قيد التشغيل</string>
+    <string name="activate_alarm">تنشيط التنبيه</string>
+    <string name="message_proximity_actived">تم تفعيل القرب من الكشف</string>
+    <string name="message_motion_actived">تم تنشيط حركة الكشف</string>
+    <string name="message_charger_actived">شاحن الكشف مفعل</string>
+
+    //
+    <string name="grant_now">امنح الآن</string>
+    <string name="permission_needed">إذن مطلوب</string>
+    <string name="grant_app_permission">امنح إذن استخدام التطبيق للحصول على تأثير مسح شامل للهاتف</string>
+    <string name="write_setting_per">كتابة إذن الإعداد</string>
+    <string name="usage_access_permission">إذن الوصول إلى الاستخدام</string>
+    <string name="external_storage_permission">منح الوصول إلى ذاكرة التخزين الخارجية في الجهاز</string>
+    <string name="camera_permission">امنح حق الوصول إلى الكاميرا في الجهاز</string>
+    <string name="write_setting_permission">"منح الإذن لتغيير إعدادات الجهاز</string>
+    <string name="listen_notification_permission">امنح الإذن للاستماع إلى إشعارات الجهاز</string>
+    <string name="overlay_permission">منح الإذن للعرض على التطبيقات الأخرى</string>
+    <string name="accessibility_setting_permission">منح الإذن لاستخدام خدمة الوصول</string>
+    <string name="find_and_grant">ابحث عن٪ s ومنح٪ s</string>
+    <string name="floatint_windown_per">إذن النافذة العائمة</string>
+    <string name="accessibility_permission">إذن الوصول</string>
+    <string name="listener_notification_per">الاستماع إذن الإعلام</string>
+
+    <string name="accessibility_service_description">انقر فوق الاستخدام الأيمن العلوي لخدمة إمكانية الوصول.
+        \ن
+        \nسيسمح هذا لـ Applock بـ: العملية أكثر استقرارًا
+        \ن
+    \nسيتعين عليك قبول تحذيرات نظام Android عند تمكين خدمة إمكانية الوصول. لن يستخدم Applock هذه لأي غرض آخر غير المذكور هنا.</string>
+    <string name="ok">نعم</string>
+    <string name="content_set_up_password">يرجى إعداد كلمة مرور لاستخدامها لأول مرة</string>
+    <string name="turn_on_charger">يرجى توصيل الشاحن قبل تشغيل المنبه.</string>
+    <string name="forgot_password">هل نسيت كلمة السر</string>
+    <string name="message_plug_in_before_using">يرجى توصيل الشاحن قبل الاستخدام</string>
+    <string name="finger_unlock">فتح بصمة الإصبع</string>
+    <string name="menu_home">LockApp</string>
+    <string name="menu_theme">سمة</string>
+    <string name="menu_app_mask">قناع التطبيق</string>
+    <string name="menu_security">حماية</string>
+    <string name="menu_setting">ضبط</string>
+    <string name="menu_ivy">عائلة اللبلاب</string>
+    <string name="save_ok">أنقذ</string>
+    <string name="limit_lock_time">وقت قفل محدود</string>
+    <string name="collection">مجموعة</string>
+    <string name="change_password">غير كلمة السر</string>
+    <string name="switch_to_password">تبديل كلمة المرور</string>
+    <string name="advanced_detection">"الحماية المتقدمة"</string>
+    <string name="rate">معدل</string>
+    <string name="limited_lock_time">وقت قفل محدود</string>
+    <string name="lock_new_app">قفل التطبيق الجديد</string>
+    <string name="alway_lock">مغلق دائما</string>
+    <string name="five_minutes">5 دقائق</string>
+    <string name="phone_screen_off">حتى تنطفئ شاشة الهاتف</string>
+
+    <string name="stop_applock">هل سيتم إلغاء حماية تطبيقك إذا أوقفت قفل التطبيقات؟</string>
+    <string name="cancel">يلغي</string>
+
+    <string name="apply">يتقدم</string>
+    <string name="map">خريطة</string>
+    <string name="evaluate">تقييم</string>
+    <string name="achieve">إنجازات</string>
+    <string name="health">المراقبة الصحية</string>
+    <string name="app_mask">قناع التطبيق</string>
+
+    <string name="changed_icon">الأيقونة المتغيرة.</string>
+    <string name="changed_icon_message">قد يستغرق استبدال رمز تطبيق الحاسبة بضع ثوانٍ حسب مشغل الهاتف. إذا لم تظهر الأيقونة الجديدة في غضون ثوانٍ قليلة ، فأعد تشغيل جهازك.</string>
+    <string name="advanced_protection">حماية متقدمة</string>
+    <string name="header_advanced">للحصول على حماية مثالية ، نوصيك بالسماح لجميع الحقوق.</string>
+    <string name="used_camera">استخدم الكاميرا</string>
+    <string name="take_photos_intruders">التقط صورًا للمتطفلين</string>
+    <string name="stable_operation">عملية مستقرة</string>
+    <string name="keep_applock_smoothly">Keep Applock يعمل بسلاسة</string>
+    <string name="energy_saving">توفير الطاقة</string>
+    <string name="saving_extending_pin_life">التوفير في إطالة عمر PIN</string>
+    <string name="popup">يظهر فجأة</string>
+    <string name="keep_applock_background">استمر في تشغيل Applock في الخلفية</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="action_search">يبحث</string>
+    <string name="app_lock">قفل التطبيق</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131016797599",
+    "project_id": "advance-cleaner-f9957",
+    "storage_bucket": "advance-cleaner-f9957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131016797599:android:717b8d073f129c2ab361aa",
+        "android_client_info": {
+          "package_name": "com.lakshita.suman.advancecleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131016797599-1v3g8ae0ijq5i7inkaghs8tip87egck4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUG2B-6-wOS6C_QDEaKaBJiRAKuPGFxJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131016797599-1v3g8ae0ijq5i7inkaghs8tip87egck4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
