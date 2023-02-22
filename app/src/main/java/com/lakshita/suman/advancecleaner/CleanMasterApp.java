@@ -55,7 +55,7 @@ public class CleanMasterApp extends AdsApplication {
         activityList = new ArrayList<>();
         initLanguage();
 
-        cleanMasterConfig = new MobConfig(this, "hee3kwgpedj4");
+        cleanMasterConfig = new MobConfig(this, "hee3kwgpedj4","fzxoso");
         Mob.onCreate(cleanMasterConfig);
         registerActivityLifecycleCallbacks(new CleanMasterLifecycleCallbacks());
     }
